@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/31236/plugins/sfTaskExtraPlugin/branches/1.3
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/25058/plugins/sfTaskExtraPlugin/branches/1.3/LICENSE
+END
+package.xml.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/31236/plugins/sfTaskExtraPlugin/branches/1.3/package.xml.tmpl
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/28187/plugins/sfTaskExtraPlugin/branches/1.3/README
+END

@@ -1,0 +1,395 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/3195/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine
+END
+PluginaFeedSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaFeedSlot.class.php
+END
+PluginaArea.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaArea.class.php
+END
+PluginaAccessTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaAccessTable.class.php
+END
+PluginaCategory.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaCategory.class.php
+END
+PluginaButtonSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaButtonSlot.class.php
+END
+PluginaFeedSlotTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaFeedSlotTable.class.php
+END
+PluginaVideoSlotTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaVideoSlotTable.class.php
+END
+PluginaSmartSlideshowSlotTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaSmartSlideshowSlotTable.class.php
+END
+PluginaPDFSlotTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaPDFSlotTable.class.php
+END
+PluginaPageTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/3195/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaPageTable.class.php
+END
+PluginaCategoryUserTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaCategoryUserTable.class.php
+END
+PluginaImageSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaImageSlot.class.php
+END
+PluginaCategoryTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/2967/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaCategoryTable.class.php
+END
+PluginaButtonSlotTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaButtonSlotTable.class.php
+END
+PluginaTextSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaTextSlot.class.php
+END
+PluginaEmbedMediaAccount.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaEmbedMediaAccount.class.php
+END
+PluginaEmbedMediaAccountTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaEmbedMediaAccountTable.class.php
+END
+PluginaMediaItemCategoryTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaMediaItemCategoryTable.class.php
+END
+PluginaMediaItemTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaMediaItemTable.class.php
+END
+PluginaVideoSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaVideoSlot.class.php
+END
+PluginaSlideshowSlotTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaSlideshowSlotTable.class.php
+END
+PluginaAudioSlotTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaAudioSlotTable.class.php
+END
+PluginaPage.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/3179/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaPage.class.php
+END
+PluginaCategoryUser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaCategoryUser.class.php
+END
+PluginaPageToCategory.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaPageToCategory.class.php
+END
+PluginaAreaVersion.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaAreaVersion.class.php
+END
+PluginaGroupAccess.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaGroupAccess.class.php
+END
+PluginaPDFTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaPDFTable.class.php
+END
+PluginaPageToCategoryTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaPageToCategoryTable.class.php
+END
+PluginaRawHTMLSlotTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaRawHTMLSlotTable.class.php
+END
+PluginaAreaVersionSlotTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaAreaVersionSlotTable.class.php
+END
+PluginaCategoryGroup.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaCategoryGroup.class.php
+END
+PluginaTextSlotTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaTextSlotTable.class.php
+END
+PluginaNewRichTextSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaNewRichTextSlot.class.php
+END
+PluginaMediaItemToCategoryTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaMediaItemToCategoryTable.class.php
+END
+PluginaSlotMediaItemTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaSlotMediaItemTable.class.php
+END
+PluginaPDFSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaPDFSlot.class.php
+END
+PluginaLuceneUpdate.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaLuceneUpdate.class.php
+END
+PluginaRawHTMLSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/2988/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaRawHTMLSlot.class.php
+END
+PluginaAreaVersionSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaAreaVersionSlot.class.php
+END
+PluginaAreaVersionTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaAreaVersionTable.class.php
+END
+PluginaGroupAccessTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaGroupAccessTable.class.php
+END
+PluginaSlotMediaItem.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaSlotMediaItem.class.php
+END
+PluginaRedirect.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaRedirect.class.php
+END
+PluginaCategoryGroupTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaCategoryGroupTable.class.php
+END
+PluginaSlideshowSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaSlideshowSlot.class.php
+END
+PluginaAudioSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaAudioSlot.class.php
+END
+PluginaRichTextSlotTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaRichTextSlotTable.class.php
+END
+PluginaRedirectTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaRedirectTable.class.php
+END
+PluginaSmartSlideshowSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaSmartSlideshowSlot.class.php
+END
+PluginaNewRichTextSlotTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaNewRichTextSlotTable.class.php
+END
+PluginaAreaTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaAreaTable.class.php
+END
+PluginaSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/2808/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaSlot.class.php
+END
+PluginaFileSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaFileSlot.class.php
+END
+PluginaMediaPageCategoryTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaMediaPageCategoryTable.class.php
+END
+PluginaMediaBrowserSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaMediaBrowserSlot.class.php
+END
+PluginaLuceneUpdateTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaLuceneUpdateTable.class.php
+END
+PluginaSlotTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaSlotTable.class.php
+END
+PluginaFileSlotTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaFileSlotTable.class.php
+END
+PluginaRichTextSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/2808/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaRichTextSlot.class.php
+END
+PluginaImageSlotTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaImageSlotTable.class.php
+END
+PluginaMediaBrowserSlotTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaMediaBrowserSlotTable.class.php
+END
+PluginaMediaItem.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/3037/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaMediaItem.class.php
+END
+PluginaMediaItemToCategory.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaMediaItemToCategory.class.php
+END
+PluginaAccess.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/model/doctrine/PluginaAccess.class.php
+END

@@ -1,0 +1,89 @@
+10
+
+dir
+3225
+http://svn.apostrophenow.org/plugins/apostropheBlogPlugin/branches/1.5/test/fixtures/project
+http://svn.apostrophenow.org
+
+
+
+2010-11-11T22:01:17.177895Z
+2650
+tboutell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c89fab08-2f9b-42bf-8176-bd3ad6bee547
+
+test
+dir
+
+log
+dir
+
+plugins
+dir
+
+apps
+dir
+
+cache
+dir
+
+symfony
+file
+
+
+
+
+2011-01-19T18:19:24.000000Z
+ec0244c82ba8f52899e48b4e473f78e8
+2010-02-01T20:46:20.925652Z
+121
+dordille
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+446
+
+config
+dir
+
+lib
+dir
+
+data
+dir
+
+web
+dir
+

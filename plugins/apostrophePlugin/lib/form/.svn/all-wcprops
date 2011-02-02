@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/3223/plugins/apostrophePlugin/branches/1.5/lib/form
+END
+aMediaUploadMultipleForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/form/aMediaUploadMultipleForm.class.php
+END
+aMediaBrowseForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/form/aMediaBrowseForm.class.php
+END
+BaseaRenameForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/form/BaseaRenameForm.class.php
+END
+BaseaSmartSlideshowForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/3013/plugins/apostrophePlugin/branches/1.5/lib/form/BaseaSmartSlideshowForm.class.php
+END
+BaseaMediaPdfForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/form/BaseaMediaPdfForm.class.php
+END
+BaseaMediaSearchServicesForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/form/BaseaMediaSearchServicesForm.class.php
+END
+BaseaMediaUploadImagesForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/form/BaseaMediaUploadImagesForm.class.php
+END
+aMediaSearchForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/form/aMediaSearchForm.class.php
+END
+aRenameForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/form/aRenameForm.class.php
+END
+aSmartSlideshowForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/form/aSmartSlideshowForm.class.php
+END
+aAudioSlotEditForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/3223/plugins/apostrophePlugin/branches/1.5/lib/form/aAudioSlotEditForm.class.php
+END
+aEngineCategoriesForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/2984/plugins/apostrophePlugin/branches/1.5/lib/form/aEngineCategoriesForm.class.php
+END
+aRawHTMLForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/form/aRawHTMLForm.class.php
+END
+BaseaMediaUploadForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/form/BaseaMediaUploadForm.class.php
+END
+BaseaMediaUploadImageForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/form/BaseaMediaUploadImageForm.class.php
+END
+PluginaMediaEngineForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/2984/plugins/apostrophePlugin/branches/1.5/lib/form/PluginaMediaEngineForm.class.php
+END
+aMediaEditForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/form/aMediaEditForm.class.php
+END
+BaseaRichTextForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/2696/plugins/apostrophePlugin/branches/1.5/lib/form/BaseaRichTextForm.class.php
+END
+aFormSignin.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/form/aFormSignin.class.php
+END
+aMediaUploadImageForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/form/aMediaUploadImageForm.class.php
+END
+BaseaPageSettingsForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/3223/plugins/apostrophePlugin/branches/1.5/lib/form/BaseaPageSettingsForm.class.php
+END
+aRichTextForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/form/aRichTextForm.class.php
+END
+BaseaMediaUploadMultipleForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/form/BaseaMediaUploadMultipleForm.class.php
+END
+BaseaMediaBrowseForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/form/BaseaMediaBrowseForm.class.php
+END
+aPageSettingsForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/form/aPageSettingsForm.class.php
+END
+BaseaFeedForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/form/BaseaFeedForm.class.php
+END
+BaseaMediaSearchForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/form/BaseaMediaSearchForm.class.php
+END
+aMediaEditMultipleForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/form/aMediaEditMultipleForm.class.php
+END
+BaseaMediaVideoForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/3190/plugins/apostrophePlugin/branches/1.5/lib/form/BaseaMediaVideoForm.class.php
+END
+aFeedForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/form/aFeedForm.class.php
+END
+aMediaPdfForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/form/aMediaPdfForm.php
+END
+aMediaEngineForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/2984/plugins/apostrophePlugin/branches/1.5/lib/form/aMediaEngineForm.class.php
+END
+BaseaButtonForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/2696/plugins/apostrophePlugin/branches/1.5/lib/form/BaseaButtonForm.class.php
+END
+aMediaVideoForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/form/aMediaVideoForm.class.php
+END
+BaseaRawHTMLForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/form/BaseaRawHTMLForm.class.php
+END
+aMediaSearchServicesForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/form/aMediaSearchServicesForm.class.php
+END
+aMediaUploadImagesForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/form/aMediaUploadImagesForm.class.php
+END
+aButtonForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/form/aButtonForm.class.php
+END
+aTagForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/3223/plugins/apostrophePlugin/branches/1.5/lib/form/aTagForm.class.php
+END
+aPageForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/form/aPageForm.class.php
+END
+BaseaLanguageForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/form/BaseaLanguageForm.class.php
+END
+BaseaTextForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/form/BaseaTextForm.class.php
+END
+BaseaMediaEditForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/3017/plugins/apostrophePlugin/branches/1.5/lib/form/BaseaMediaEditForm.class.php
+END
+aLanguageForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/form/aLanguageForm.class.php
+END
+aMediaUploadForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/form/aMediaUploadForm.class.php
+END
+aTextForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/form/aTextForm.class.php
+END
+BaseaMediaEditMultipleForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/2923/plugins/apostrophePlugin/branches/1.5/lib/form/BaseaMediaEditMultipleForm.class.php
+END

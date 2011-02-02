@@ -1,0 +1,19 @@
+K 13
+svn:externals
+V 801
+apostrophePlugin http://svn.apostrophenow.org/plugins/apostrophePlugin/branches/1.5
+apostropheBlogPlugin http://svn.apostrophenow.org/plugins/apostropheBlogPlugin/branches/1.5
+apostropheFeedbackPlugin http://svn.symfony-project.com/plugins/apostropheFeedbackPlugin/trunk
+sfDoctrineGuardPlugin http://svn.symfony-project.com/plugins/sfDoctrineGuardPlugin/trunk
+sfDoctrineActAsTaggablePlugin http://svn.symfony-project.com/plugins/sfDoctrineActAsTaggablePlugin/trunk
+sfSyncContentPlugin http://svn.symfony-project.com/plugins/sfSyncContentPlugin/trunk
+sfTaskExtraPlugin http://svn.symfony-project.com/plugins/sfTaskExtraPlugin/branches/1.3
+sfFeed2Plugin http://svn.symfony-project.com/plugins/sfFeed2Plugin/branches/1.2
+sfWebBrowserPlugin http://svn.symfony-project.com/plugins/sfWebBrowserPlugin/trunk
+
+K 10
+svn:ignore
+V 10
+.registry
+
+END

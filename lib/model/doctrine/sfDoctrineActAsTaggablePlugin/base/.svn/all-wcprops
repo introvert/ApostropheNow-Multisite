@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/sfDoctrineActAsTaggablePlugin/base
+END
+BaseTag.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/sfDoctrineActAsTaggablePlugin/base/BaseTag.class.php
+END
+BaseTagging.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/sfDoctrineActAsTaggablePlugin/base/BaseTagging.class.php
+END

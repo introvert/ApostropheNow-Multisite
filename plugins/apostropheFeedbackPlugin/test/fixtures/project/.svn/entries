@@ -1,0 +1,92 @@
+10
+
+dir
+31857
+http://svn.symfony-project.com/plugins/apostropheFeedbackPlugin/trunk/test/fixtures/project
+http://svn.symfony-project.com
+
+
+
+2010-12-09T21:14:08.155721Z
+31650
+johnnyoffline
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ee427ae8-e902-0410-961c-c3ed070cd9f9
+
+test
+dir
+
+log
+dir
+
+plugins
+dir
+
+apps
+dir
+
+cache
+dir
+
+symfony
+file
+
+
+
+
+2011-01-19T18:19:27.000000Z
+ec0244c82ba8f52899e48b4e473f78e8
+2010-12-09T21:14:08.155721Z
+31650
+johnnyoffline
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+446
+
+config
+dir
+
+doc
+dir
+
+lib
+dir
+
+data
+dir
+
+web
+dir
+

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/3181/plugins/apostropheBlogPlugin/branches/1.5/lib
+END
+aBlogImporter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/2906/plugins/apostropheBlogPlugin/branches/1.5/lib/aBlogImporter.class.php
+END
+aBlogEvents.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/3055/plugins/apostropheBlogPlugin/branches/1.5/lib/aBlogEvents.class.php
+END
+aBlogToolkit.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/2985/plugins/apostropheBlogPlugin/branches/1.5/lib/aBlogToolkit.class.php
+END
+EventCalendar.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/lib/EventCalendar.class.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/2983/plugins/apostropheBlogPlugin/branches/1.5/config
+END
+app.yml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/config/app.yml.sample
+END
+routing.yml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/2983/plugins/apostropheBlogPlugin/branches/1.5/config/routing.yml
+END
+apostropheBlogPluginConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/config/apostropheBlogPluginConfiguration.class.php
+END

@@ -1,0 +1,14 @@
+aPage:
+  columns:
+    site_id:
+      type: integer(4)
+
+  relations:
+    #Site - multisite
+    Site:
+      type: one
+      class: Site
+      foreign: id
+#      onDelete: cascade
+      local: site_id
+#      foreignAlias: Pages

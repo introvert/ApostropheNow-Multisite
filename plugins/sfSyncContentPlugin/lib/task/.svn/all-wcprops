@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/22882/plugins/sfSyncContentPlugin/trunk/lib/task
+END
+mysqlloadTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/22583/plugins/sfSyncContentPlugin/trunk/lib/task/mysqlloadTask.class.php
+END
+synccontentTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/22882/plugins/sfSyncContentPlugin/trunk/lib/task/synccontentTask.class.php
+END
+mysqldumpTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/22583/plugins/sfSyncContentPlugin/trunk/lib/task/mysqldumpTask.class.php
+END

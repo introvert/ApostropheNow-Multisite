@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/3223/plugins/apostrophePlugin/branches/1.5
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/LICENSE
+END
+package.xml.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/3216/plugins/apostrophePlugin/branches/1.5/package.xml.tmpl
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/README
+END

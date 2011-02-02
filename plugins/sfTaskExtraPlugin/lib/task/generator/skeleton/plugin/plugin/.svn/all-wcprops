@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/28275/plugins/sfTaskExtraPlugin/branches/1.3/lib/task/generator/skeleton/plugin/plugin
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/25018/plugins/sfTaskExtraPlugin/branches/1.3/lib/task/generator/skeleton/plugin/plugin/LICENSE
+END
+package.xml.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28275/plugins/sfTaskExtraPlugin/branches/1.3/lib/task/generator/skeleton/plugin/plugin/package.xml.tmpl
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/25018/plugins/sfTaskExtraPlugin/branches/1.3/lib/task/generator/skeleton/plugin/plugin/README
+END

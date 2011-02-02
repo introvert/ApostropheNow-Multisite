@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/2965/plugins/apostrophePlugin/branches/1.5/lib/user
+END
+aSecurityUser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/2965/plugins/apostrophePlugin/branches/1.5/lib/user/aSecurityUser.class.php
+END
+BaseaSecurityUser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/2965/plugins/apostrophePlugin/branches/1.5/lib/user/BaseaSecurityUser.class.php
+END

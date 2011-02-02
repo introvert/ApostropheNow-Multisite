@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/31847/plugins/sfDoctrineActAsTaggablePlugin/trunk/test/unit
+END
+TaggableToolkitTest.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/31458/plugins/sfDoctrineActAsTaggablePlugin/trunk/test/unit/TaggableToolkitTest.class.php
+END
+sfDoctrineActAsTaggableTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/31847/plugins/sfDoctrineActAsTaggablePlugin/trunk/test/unit/sfDoctrineActAsTaggableTest.php
+END

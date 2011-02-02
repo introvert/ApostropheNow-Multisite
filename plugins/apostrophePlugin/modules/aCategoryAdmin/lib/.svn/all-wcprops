@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/2883/plugins/apostrophePlugin/branches/1.5/modules/aCategoryAdmin/lib
+END
+aCategoryAdminGeneratorConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/aCategoryAdmin/lib/aCategoryAdminGeneratorConfiguration.class.php
+END
+aCategoryAdminGeneratorHelper.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/aCategoryAdmin/lib/aCategoryAdminGeneratorHelper.class.php
+END
+BaseaCategoryAdminActions.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/2883/plugins/apostrophePlugin/branches/1.5/modules/aCategoryAdmin/lib/BaseaCategoryAdminActions.class.php
+END

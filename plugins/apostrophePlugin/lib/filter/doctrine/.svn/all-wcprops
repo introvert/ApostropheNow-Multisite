@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/3180/plugins/apostrophePlugin/branches/1.5/lib/filter/doctrine
+END
+PluginaCategoryUserFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/filter/doctrine/PluginaCategoryUserFormFilter.class.php
+END
+PluginaPageFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/filter/doctrine/PluginaPageFormFilter.class.php
+END
+PluginaCategoryFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/2972/plugins/apostrophePlugin/branches/1.5/lib/filter/doctrine/PluginaCategoryFormFilter.class.php
+END
+PluginaMediaCategoryFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/filter/doctrine/PluginaMediaCategoryFormFilter.class.php
+END
+PluginaMediaItemFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/filter/doctrine/PluginaMediaItemFormFilter.class.php
+END
+PluginaRedirectFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/filter/doctrine/PluginaRedirectFormFilter.class.php
+END
+PluginaEmbedMediaAccountFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/filter/doctrine/PluginaEmbedMediaAccountFormFilter.class.php
+END
+PluginaCategoryGroupFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/filter/doctrine/PluginaCategoryGroupFormFilter.class.php
+END
+PluginaSmartSlideshowSlotFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/filter/doctrine/PluginaSmartSlideshowSlotFormFilter.class.php
+END

@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/framework/!svn/ver/23097/standard/branches/release-1.10/library/Zend
+END
+Dojo.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/framework/!svn/ver/20291/standard/branches/release-1.10/library/Zend/Dojo.php
+END
+Navigation.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/framework/!svn/ver/20291/standard/branches/release-1.10/library/Zend/Navigation.php
+END
+Crypt.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/framework/!svn/ver/20291/standard/branches/release-1.10/library/Zend/Crypt.php
+END
+Form.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/framework/!svn/ver/22465/standard/branches/release-1.10/library/Zend/Form.php
+END
+Feed.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/framework/!svn/ver/20291/standard/branches/release-1.10/library/Zend/Feed.php
+END
+Config.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/framework/!svn/ver/20291/standard/branches/release-1.10/library/Zend/Config.php
+END
+Loader.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/framework/!svn/ver/22020/standard/branches/release-1.10/library/Zend/Loader.php
+END
+Registry.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/framework/!svn/ver/20291/standard/branches/release-1.10/library/Zend/Registry.php
+END
+Serializer.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/framework/!svn/ver/20575/standard/branches/release-1.10/library/Zend/Serializer.php
+END
+Pdf.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/framework/!svn/ver/22655/standard/branches/release-1.10/library/Zend/Pdf.php
+END
+OpenId.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/framework/!svn/ver/22655/standard/branches/release-1.10/library/Zend/OpenId.php
+END
+Oauth.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/framework/!svn/ver/21071/standard/branches/release-1.10/library/Zend/Oauth.php
+END
+Gdata.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/framework/!svn/ver/20291/standard/branches/release-1.10/library/Zend/Gdata.php
+END
+Ldap.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/framework/!svn/ver/22997/standard/branches/release-1.10/library/Zend/Ldap.php
+END
+Paginator.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/framework/!svn/ver/22829/standard/branches/release-1.10/library/Zend/Paginator.php
+END
+Db.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/framework/!svn/ver/20291/standard/branches/release-1.10/library/Zend/Db.php
+END
+Debug.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/framework/!svn/ver/20291/standard/branches/release-1.10/library/Zend/Debug.php
+END
+ProgressBar.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/framework/!svn/ver/20291/standard/branches/release-1.10/library/Zend/ProgressBar.php
+END
+Validate.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/framework/!svn/ver/21340/standard/branches/release-1.10/library/Zend/Validate.php
+END
+Currency.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/framework/!svn/ver/22369/standard/branches/release-1.10/library/Zend/Currency.php
+END
+TimeSync.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/framework/!svn/ver/20291/standard/branches/release-1.10/library/Zend/TimeSync.php
+END
+Translate.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/framework/!svn/ver/22592/standard/branches/release-1.10/library/Zend/Translate.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/framework/!svn/ver/20980/standard/branches/release-1.10/library/Zend/Exception.php
+END
+Barcode.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/framework/!svn/ver/20291/standard/branches/release-1.10/library/Zend/Barcode.php
+END
+Locale.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/framework/!svn/ver/22536/standard/branches/release-1.10/library/Zend/Locale.php
+END
+Markup.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/framework/!svn/ver/20291/standard/branches/release-1.10/library/Zend/Markup.php
+END
+Acl.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/framework/!svn/ver/22456/standard/branches/release-1.10/library/Zend/Acl.php
+END
+Uri.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/framework/!svn/ver/22539/standard/branches/release-1.10/library/Zend/Uri.php
+END
+Auth.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/framework/!svn/ver/20291/standard/branches/release-1.10/library/Zend/Auth.php
+END
+Cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/framework/!svn/ver/21974/standard/branches/release-1.10/library/Zend/Cache.php
+END
+Application.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/framework/!svn/ver/20291/standard/branches/release-1.10/library/Zend/Application.php
+END
+Memory.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/framework/!svn/ver/20805/standard/branches/release-1.10/library/Zend/Memory.php
+END
+Json.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/framework/!svn/ver/20616/standard/branches/release-1.10/library/Zend/Json.php
+END
+View.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/framework/!svn/ver/20291/standard/branches/release-1.10/library/Zend/View.php
+END
+Layout.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/framework/!svn/ver/20291/standard/branches/release-1.10/library/Zend/Layout.php
+END
+Date.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/framework/!svn/ver/22321/standard/branches/release-1.10/library/Zend/Date.php
+END
+Log.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/framework/!svn/ver/22632/standard/branches/release-1.10/library/Zend/Log.php
+END
+Mail.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/framework/!svn/ver/20783/standard/branches/release-1.10/library/Zend/Mail.php
+END
+Session.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/framework/!svn/ver/22588/standard/branches/release-1.10/library/Zend/Session.php
+END
+Queue.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/framework/!svn/ver/20291/standard/branches/release-1.10/library/Zend/Queue.php
+END
+InfoCard.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/framework/!svn/ver/20291/standard/branches/release-1.10/library/Zend/InfoCard.php
+END
+Filter.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/framework/!svn/ver/21097/standard/branches/release-1.10/library/Zend/Filter.php
+END
+Version.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/framework/!svn/ver/22885/standard/branches/release-1.10/library/Zend/Version.php
+END
+Mime.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/framework/!svn/ver/20291/standard/branches/release-1.10/library/Zend/Mime.php
+END

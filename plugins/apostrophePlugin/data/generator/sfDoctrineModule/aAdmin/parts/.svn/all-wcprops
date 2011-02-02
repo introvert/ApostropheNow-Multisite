@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/3173/plugins/apostrophePlugin/branches/1.5/data/generator/sfDoctrineModule/aAdmin/parts
+END
+fieldsConfiguration.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/data/generator/sfDoctrineModule/aAdmin/parts/fieldsConfiguration.php
+END
+processFormAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/2883/plugins/apostrophePlugin/branches/1.5/data/generator/sfDoctrineModule/aAdmin/parts/processFormAction.php
+END
+filtersConfiguration.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/data/generator/sfDoctrineModule/aAdmin/parts/filtersConfiguration.php
+END
+deleteAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/data/generator/sfDoctrineModule/aAdmin/parts/deleteAction.php
+END
+createAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/data/generator/sfDoctrineModule/aAdmin/parts/createAction.php
+END
+indexAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/3173/plugins/apostrophePlugin/branches/1.5/data/generator/sfDoctrineModule/aAdmin/parts/indexAction.php
+END
+filtersAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/data/generator/sfDoctrineModule/aAdmin/parts/filtersAction.php
+END
+configuration.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/data/generator/sfDoctrineModule/aAdmin/parts/configuration.php
+END
+sortingConfiguration.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/data/generator/sfDoctrineModule/aAdmin/parts/sortingConfiguration.php
+END
+batchAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/data/generator/sfDoctrineModule/aAdmin/parts/batchAction.php
+END
+updateAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/data/generator/sfDoctrineModule/aAdmin/parts/updateAction.php
+END
+paginationConfiguration.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/data/generator/sfDoctrineModule/aAdmin/parts/paginationConfiguration.php
+END
+sortingAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/data/generator/sfDoctrineModule/aAdmin/parts/sortingAction.php
+END
+filterAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/data/generator/sfDoctrineModule/aAdmin/parts/filterAction.php
+END
+editAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/data/generator/sfDoctrineModule/aAdmin/parts/editAction.php
+END
+paginationAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/data/generator/sfDoctrineModule/aAdmin/parts/paginationAction.php
+END
+newAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/data/generator/sfDoctrineModule/aAdmin/parts/newAction.php
+END
+actionsConfiguration.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/2823/plugins/apostrophePlugin/branches/1.5/data/generator/sfDoctrineModule/aAdmin/parts/actionsConfiguration.php
+END

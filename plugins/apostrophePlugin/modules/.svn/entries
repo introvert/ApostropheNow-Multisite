@@ -1,0 +1,100 @@
+10
+
+dir
+3225
+http://svn.apostrophenow.org/plugins/apostrophePlugin/branches/1.5/modules
+http://svn.apostrophenow.org
+
+
+
+2011-01-18T21:26:43.967031Z
+3206
+johnnyoffline
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c89fab08-2f9b-42bf-8176-bd3ad6bee547
+
+aMedia
+dir
+
+a
+dir
+
+aRawHTMLSlot
+dir
+
+aFileSlot
+dir
+
+aImageSlot
+dir
+
+aTagAdmin
+dir
+
+aCategoryAdmin
+dir
+
+aTextSlot
+dir
+
+aMediaBackend
+dir
+
+aUserAdmin
+dir
+
+aAdmin
+dir
+
+aRichTextSlot
+dir
+
+aPager
+dir
+
+aNavigation
+dir
+
+aPermissionAdmin
+dir
+
+aAudioSlot
+dir
+
+aSlideshowSlot
+dir
+
+aGroupAdmin
+dir
+
+aFeedSlot
+dir
+
+aVideoSlot
+dir
+
+aSmartSlideshowSlot
+dir
+
+aPDFSlot
+dir
+
+aSync
+dir
+
+aButtonSlot
+dir
+

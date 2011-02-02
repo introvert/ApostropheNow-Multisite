@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/lib/filter/doctrine
+END
+PluginaBlogItemCategoryFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/lib/filter/doctrine/PluginaBlogItemCategoryFormFilter.class.php
+END
+PluginaEventFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/lib/filter/doctrine/PluginaEventFormFilter.class.php
+END
+PluginaBlogItemFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/lib/filter/doctrine/PluginaBlogItemFormFilter.class.php
+END
+PluginaBlogItemToCategoryFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/lib/filter/doctrine/PluginaBlogItemToCategoryFormFilter.class.php
+END
+PluginaBlogEngineFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/lib/filter/doctrine/PluginaBlogEngineFormFilter.class.php
+END
+PluginaBlogPostFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/lib/filter/doctrine/PluginaBlogPostFormFilter.class.php
+END
+PluginaBlogEditorFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/lib/filter/doctrine/PluginaBlogEditorFormFilter.class.php
+END

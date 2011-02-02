@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/25020/plugins/sfTaskExtraPlugin/branches/1.3/test/fixtures/project/lib/form
+END
+BaseForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/25020/plugins/sfTaskExtraPlugin/branches/1.3/test/fixtures/project/lib/form/BaseForm.class.php
+END
+Form.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/25020/plugins/sfTaskExtraPlugin/branches/1.3/test/fixtures/project/lib/form/Form.class.php
+END

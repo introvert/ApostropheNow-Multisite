@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/25037/plugins/sfTaskExtraPlugin/branches/1.3/test/unit/task
+END
+generatorTasksTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/25032/plugins/sfTaskExtraPlugin/branches/1.3/test/unit/task/generatorTasksTest.php
+END
+sfTaskExtraBaseTaskTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/25037/plugins/sfTaskExtraPlugin/branches/1.3/test/unit/task/sfTaskExtraBaseTaskTest.php
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/3182/sandboxes/asandbox/branches/1.5/lib/form
+END
+sfGuardFormSignin.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/lib/form/sfGuardFormSignin.class.php
+END
+BaseForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/lib/form/BaseForm.class.php
+END

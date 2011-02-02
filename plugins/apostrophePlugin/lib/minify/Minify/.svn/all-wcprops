@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/2918/plugins/apostrophePlugin/branches/1.5/lib/minify/Minify
+END
+ImportProcessor.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/minify/Minify/ImportProcessor.php
+END
+Lines.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/minify/Minify/Lines.php
+END
+Build.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/minify/Minify/Build.php
+END
+Logger.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/minify/Minify/Logger.php
+END
+CommentPreserver.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/minify/Minify/CommentPreserver.php
+END
+Source.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/minify/Minify/Source.php
+END
+YUICompressor.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/minify/Minify/YUICompressor.php
+END
+HTML.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/minify/Minify/HTML.php
+END
+Packer.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/minify/Minify/Packer.php
+END
+CSS.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/minify/Minify/CSS.php
+END

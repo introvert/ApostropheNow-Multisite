@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/plugins/.channels/.alias
+END
+pecl.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/plugins/.channels/.alias/pecl.txt
+END
+symfony-plugins.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/plugins/.channels/.alias/symfony-plugins.txt
+END
+symfony.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/plugins/.channels/.alias/symfony.txt
+END
+pear.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/plugins/.channels/.alias/pear.txt
+END
+phpdocs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/plugins/.channels/.alias/phpdocs.txt
+END

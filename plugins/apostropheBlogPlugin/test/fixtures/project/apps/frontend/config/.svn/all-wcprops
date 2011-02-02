@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/2650/plugins/apostropheBlogPlugin/branches/1.5/test/fixtures/project/apps/frontend/config
+END
+factories.yml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/test/fixtures/project/apps/frontend/config/factories.yml
+END
+app.yml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/test/fixtures/project/apps/frontend/config/app.yml
+END
+settings.yml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/2650/plugins/apostropheBlogPlugin/branches/1.5/test/fixtures/project/apps/frontend/config/settings.yml
+END
+frontendConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/test/fixtures/project/apps/frontend/config/frontendConfiguration.class.php
+END
+cache.yml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/test/fixtures/project/apps/frontend/config/cache.yml
+END
+routing.yml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/test/fixtures/project/apps/frontend/config/routing.yml
+END
+security.yml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/test/fixtures/project/apps/frontend/config/security.yml
+END
+filters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/test/fixtures/project/apps/frontend/config/filters.yml
+END
+view.yml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/test/fixtures/project/apps/frontend/config/view.yml
+END

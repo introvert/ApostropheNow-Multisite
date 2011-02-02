@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/3027/plugins/apostrophePlugin/branches/1.5/lib/embedService/phpviddler/examples
+END
+getExamples.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/3027/plugins/apostrophePlugin/branches/1.5/lib/embedService/phpviddler/examples/getExamples.php
+END
+uploadExample.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/3027/plugins/apostrophePlugin/branches/1.5/lib/embedService/phpviddler/examples/uploadExample.php
+END

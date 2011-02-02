@@ -1,0 +1,82 @@
+10
+
+dir
+3225
+http://svn.apostrophenow.org/plugins/apostrophePlugin/branches/1.5/lib
+http://svn.apostrophenow.org
+
+
+
+2011-01-19T16:36:39.177173Z
+3223
+tboutell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c89fab08-2f9b-42bf-8176-bd3ad6bee547
+
+test
+dir
+
+helper
+dir
+
+widget
+dir
+
+validator
+dir
+
+toolkit
+dir
+
+filter
+dir
+
+pear
+dir
+
+minify
+dir
+
+embedService
+dir
+
+vendor
+dir
+
+pager
+dir
+
+navigation
+dir
+
+model
+dir
+
+task
+dir
+
+form
+dir
+
+action
+dir
+
+user
+dir
+
+lessphp
+dir
+

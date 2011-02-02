@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/3085/sandboxes/asandbox/branches/1.5/apps/frontend/modules/aBlog/templates
+END
+_singleColumnTemplate_inDefaultPageBody.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/apps/frontend/modules/aBlog/templates/_singleColumnTemplate_inDefaultPageBody.php
+END
+_imagePreviewTemplate_inDefaultPageBody.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/apps/frontend/modules/aBlog/templates/_imagePreviewTemplate_inDefaultPageBody.php
+END
+_twoColumnTemplate_inDefaultPageBody.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/apps/frontend/modules/aBlog/templates/_twoColumnTemplate_inDefaultPageBody.php
+END

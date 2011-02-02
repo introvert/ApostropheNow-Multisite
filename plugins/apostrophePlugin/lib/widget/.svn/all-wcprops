@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/3059/plugins/apostrophePlugin/branches/1.5/lib/widget
+END
+aWidgetFormJQueryDateTime.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/2696/plugins/apostrophePlugin/branches/1.5/lib/widget/aWidgetFormJQueryDateTime.class.php
+END
+aWidgetFormRichCheckbox.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/widget/aWidgetFormRichCheckbox.class.php
+END
+aWidgetFormStaticText.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/widget/aWidgetFormStaticText.class.php
+END
+aWidgetFormJQueryDate.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/2761/plugins/apostrophePlugin/branches/1.5/lib/widget/aWidgetFormJQueryDate.class.php
+END
+aWidgetFormJQueryTime.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/widget/aWidgetFormJQueryTime.class.php
+END
+aWidgetFormRadio.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/widget/aWidgetFormRadio.class.php
+END
+aWidgetFormInputFilePersistent.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/3059/plugins/apostrophePlugin/branches/1.5/lib/widget/aWidgetFormInputFilePersistent.class.php
+END
+aWidgetFormRichTextarea.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/2696/plugins/apostrophePlugin/branches/1.5/lib/widget/aWidgetFormRichTextarea.class.php
+END
+sfWidgetFormSchemaFormatterAAdmin.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/2675/plugins/apostrophePlugin/branches/1.5/lib/widget/sfWidgetFormSchemaFormatterAAdmin.class.php
+END
+aWidgetFormChoice.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/widget/aWidgetFormChoice.class.php
+END
+sfWidgetFormSchemaFormatterAPageSettings.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/2680/plugins/apostrophePlugin/branches/1.5/lib/widget/sfWidgetFormSchemaFormatterAPageSettings.class.php
+END

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/3222/plugins/apostropheBlogPlugin/branches/1.5/modules/aBlogAdmin/templates
+END
+autocompleteSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/modules/aBlogAdmin/templates/autocompleteSuccess.php
+END
+_list_th_tags_list_dropdown.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/modules/aBlogAdmin/templates/_list_th_tags_list_dropdown.php
+END
+_list_actions.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/modules/aBlogAdmin/templates/_list_actions.php
+END
+_titleAndSlug.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/2922/plugins/apostropheBlogPlugin/branches/1.5/modules/aBlogAdmin/templates/_titleAndSlug.php
+END
+_newPost.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/3168/plugins/apostropheBlogPlugin/branches/1.5/modules/aBlogAdmin/templates/_newPost.php
+END
+_list_bar.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/3222/plugins/apostropheBlogPlugin/branches/1.5/modules/aBlogAdmin/templates/_list_bar.php
+END
+newWithTitleError.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/modules/aBlogAdmin/templates/newWithTitleError.php
+END
+_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/3068/plugins/apostropheBlogPlugin/branches/1.5/modules/aBlogAdmin/templates/_form.php
+END
+_editors_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/modules/aBlogAdmin/templates/_editors_list.php
+END
+_tagList.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/modules/aBlogAdmin/templates/_tagList.php
+END
+updateSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/modules/aBlogAdmin/templates/updateSuccess.php
+END
+_author_id.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/modules/aBlogAdmin/templates/_author_id.php
+END
+editSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/3151/plugins/apostropheBlogPlugin/branches/1.5/modules/aBlogAdmin/templates/editSuccess.php
+END
+_categories_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/modules/aBlogAdmin/templates/_categories_list.php
+END
+_title.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/modules/aBlogAdmin/templates/_title.php
+END
+_filterList.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/modules/aBlogAdmin/templates/_filterList.php
+END
+newWithTitleSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/modules/aBlogAdmin/templates/newWithTitleSuccess.php
+END
+engineWarningSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/modules/aBlogAdmin/templates/engineWarningSuccess.php
+END
+_form_bar.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/modules/aBlogAdmin/templates/_form_bar.php
+END
+searchAutocomplete.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/modules/aBlogAdmin/templates/searchAutocomplete.php
+END
+_tags_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/2701/plugins/apostropheBlogPlugin/branches/1.5/modules/aBlogAdmin/templates/_tags_list.php
+END
+titleAndSlugSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/2818/plugins/apostropheBlogPlugin/branches/1.5/modules/aBlogAdmin/templates/titleAndSlugSuccess.php
+END

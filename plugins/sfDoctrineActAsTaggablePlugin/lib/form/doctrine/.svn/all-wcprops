@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/12343/plugins/sfDoctrineActAsTaggablePlugin/trunk/lib/form/doctrine
+END
+PluginTagForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/12343/plugins/sfDoctrineActAsTaggablePlugin/trunk/lib/form/doctrine/PluginTagForm.class.php
+END
+PluginTaggingForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/12343/plugins/sfDoctrineActAsTaggablePlugin/trunk/lib/form/doctrine/PluginTaggingForm.class.php
+END

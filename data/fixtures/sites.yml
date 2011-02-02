@@ -1,0 +1,8 @@
+Site:
+  main_site:
+    domain: apo2.local
+    name: local website
+    main: true
+  sub_site:
+    domain: subsite2.local
+    name: sub site

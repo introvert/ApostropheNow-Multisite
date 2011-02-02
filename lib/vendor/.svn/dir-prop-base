@@ -1,0 +1,9 @@
+K 13
+svn:externals
+V 246
+# Lowercase so that the Symfony autoloader recognizes it and doesn't
+# try to load project files from it
+symfony http://svn.symfony-project.com/branches/1.4
+Zend http://framework.zend.com/svn/framework/standard/branches/release-1.10/library/Zend
+
+END

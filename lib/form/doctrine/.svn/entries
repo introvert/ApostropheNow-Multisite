@@ -1,0 +1,77 @@
+10
+
+dir
+3225
+http://svn.apostrophenow.org/sandboxes/asandbox/branches/1.5/lib/form/doctrine
+http://svn.apostrophenow.org
+
+
+
+2011-01-17T22:04:04.905541Z
+3182
+tboutell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c89fab08-2f9b-42bf-8176-bd3ad6bee547
+
+BaseFormDoctrine.class.php
+file
+
+
+
+
+2011-01-19T18:19:02.000000Z
+76e4cc00bf78aa943581b674918c9003
+2010-01-18T22:08:12.890393Z
+8
+tboutell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+249
+
+sfDoctrineActAsTaggablePlugin
+dir
+
+sfDoctrineGuardPlugin
+dir
+
+apostrophePlugin
+dir
+
+apostropheBlogPlugin
+dir
+
+base
+dir
+

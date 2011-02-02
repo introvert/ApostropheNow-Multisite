@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/2986/sandboxes/asandbox/branches/1.5/lib/form/doctrine/apostropheBlogPlugin
+END
+aEventForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/lib/form/doctrine/apostropheBlogPlugin/aEventForm.class.php
+END
+aBlogItemForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/lib/form/doctrine/apostropheBlogPlugin/aBlogItemForm.class.php
+END
+aBlogItemToCategoryForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/lib/form/doctrine/apostropheBlogPlugin/aBlogItemToCategoryForm.class.php
+END
+aBlogPostForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/lib/form/doctrine/apostropheBlogPlugin/aBlogPostForm.class.php
+END
+aBlogEditorForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/lib/form/doctrine/apostropheBlogPlugin/aBlogEditorForm.class.php
+END

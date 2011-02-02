@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/31651/plugins/apostropheFeedbackPlugin/trunk
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/31650/plugins/apostropheFeedbackPlugin/trunk/LICENSE
+END
+package.xml.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/31650/plugins/apostropheFeedbackPlugin/trunk/package.xml.tmpl
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/31651/plugins/apostropheFeedbackPlugin/trunk/README
+END

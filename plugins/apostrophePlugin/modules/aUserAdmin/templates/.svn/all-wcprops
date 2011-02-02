@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/3170/plugins/apostrophePlugin/branches/1.5/modules/aUserAdmin/templates
+END
+_form_header.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/2823/plugins/apostrophePlugin/branches/1.5/modules/aUserAdmin/templates/_form_header.php
+END
+_subnav.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/3166/plugins/apostrophePlugin/branches/1.5/modules/aUserAdmin/templates/_subnav.php
+END
+_list_header.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/aUserAdmin/templates/_list_header.php
+END
+_list_footer.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/3170/plugins/apostrophePlugin/branches/1.5/modules/aUserAdmin/templates/_list_footer.php
+END

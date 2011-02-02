@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/31316/plugins/sfDoctrineActAsTaggablePlugin/trunk/modules/taggableComplete/templates
+END
+jQueryAutocompleteOldSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/31218/plugins/sfDoctrineActAsTaggablePlugin/trunk/modules/taggableComplete/templates/jQueryAutocompleteOldSuccess.php
+END
+jQueryAutocompleteSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/31316/plugins/sfDoctrineActAsTaggablePlugin/trunk/modules/taggableComplete/templates/jQueryAutocompleteSuccess.php
+END
+_tagWidget.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/31195/plugins/sfDoctrineActAsTaggablePlugin/trunk/modules/taggableComplete/templates/_tagWidget.php
+END
+completeSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/27427/plugins/sfDoctrineActAsTaggablePlugin/trunk/modules/taggableComplete/templates/completeSuccess.php
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/minify/Minify/Controller
+END
+Base.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/minify/Minify/Controller/Base.php
+END
+Page.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/minify/Minify/Controller/Page.php
+END
+Groups.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/minify/Minify/Controller/Groups.php
+END
+Files.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/minify/Minify/Controller/Files.php
+END
+MinApp.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/minify/Minify/Controller/MinApp.php
+END
+Version1.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/minify/Minify/Controller/Version1.php
+END

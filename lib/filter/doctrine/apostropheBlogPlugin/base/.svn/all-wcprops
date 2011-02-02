@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/filter/doctrine/apostropheBlogPlugin/base
+END
+BaseaEventFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/filter/doctrine/apostropheBlogPlugin/base/BaseaEventFormFilter.class.php
+END
+BaseaBlogItemFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/filter/doctrine/apostropheBlogPlugin/base/BaseaBlogItemFormFilter.class.php
+END
+BaseaBlogItemToCategoryFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/filter/doctrine/apostropheBlogPlugin/base/BaseaBlogItemToCategoryFormFilter.class.php
+END
+BaseaBlogPostFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/filter/doctrine/apostropheBlogPlugin/base/BaseaBlogPostFormFilter.class.php
+END
+BaseaBlogEditorFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/filter/doctrine/apostropheBlogPlugin/base/BaseaBlogEditorFormFilter.class.php
+END

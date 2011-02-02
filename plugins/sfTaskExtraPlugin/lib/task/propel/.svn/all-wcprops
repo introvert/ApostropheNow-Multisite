@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/28187/plugins/sfTaskExtraPlugin/branches/1.3/lib/task/propel
+END
+sfPropelBuildAppFormsTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28187/plugins/sfTaskExtraPlugin/branches/1.3/lib/task/propel/sfPropelBuildAppFormsTask.class.php
+END
+sfPropelBuildAppFiltersTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28187/plugins/sfTaskExtraPlugin/branches/1.3/lib/task/propel/sfPropelBuildAppFiltersTask.class.php
+END
+sfTaskExtraPropelBaseTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28187/plugins/sfTaskExtraPlugin/branches/1.3/lib/task/propel/sfTaskExtraPropelBaseTask.class.php
+END

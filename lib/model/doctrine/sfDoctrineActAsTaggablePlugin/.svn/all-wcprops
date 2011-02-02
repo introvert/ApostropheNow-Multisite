@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/sfDoctrineActAsTaggablePlugin
+END
+TaggingTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/lib/model/doctrine/sfDoctrineActAsTaggablePlugin/TaggingTable.class.php
+END
+Tag.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/lib/model/doctrine/sfDoctrineActAsTaggablePlugin/Tag.class.php
+END
+Tagging.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/lib/model/doctrine/sfDoctrineActAsTaggablePlugin/Tagging.class.php
+END
+TagTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/lib/model/doctrine/sfDoctrineActAsTaggablePlugin/TagTable.class.php
+END

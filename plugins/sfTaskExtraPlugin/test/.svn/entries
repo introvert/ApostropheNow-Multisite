@@ -1,0 +1,40 @@
+10
+
+dir
+31857
+http://svn.symfony-project.com/plugins/sfTaskExtraPlugin/branches/1.3/test
+http://svn.symfony-project.com
+
+
+
+2009-12-15T07:15:59.246923Z
+25397
+dwhittle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ee427ae8-e902-0410-961c-c3ed070cd9f9
+
+unit
+dir
+
+bin
+dir
+
+fixtures
+dir
+
+bootstrap
+dir
+

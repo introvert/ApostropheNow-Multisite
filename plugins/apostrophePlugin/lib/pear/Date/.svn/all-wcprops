@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/pear/Date
+END
+TimeZone.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/pear/Date/TimeZone.php
+END
+Span.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/pear/Date/Span.php
+END
+Calc.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/pear/Date/Calc.php
+END
+Human.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/pear/Date/Human.php
+END

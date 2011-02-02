@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/30446/plugins/sfTaskExtraPlugin/branches/1.3/lib/task/doctrine
+END
+sfTaskExtraDoctrineBaseTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28187/plugins/sfTaskExtraPlugin/branches/1.3/lib/task/doctrine/sfTaskExtraDoctrineBaseTask.class.php
+END
+sfDoctrineBuildAppFormsTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28187/plugins/sfTaskExtraPlugin/branches/1.3/lib/task/doctrine/sfDoctrineBuildAppFormsTask.class.php
+END
+sfDoctrineCompileTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/30446/plugins/sfTaskExtraPlugin/branches/1.3/lib/task/doctrine/sfDoctrineCompileTask.class.php
+END
+sfDoctrineBuildAppFiltersTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/28187/plugins/sfTaskExtraPlugin/branches/1.3/lib/task/doctrine/sfDoctrineBuildAppFiltersTask.class.php
+END

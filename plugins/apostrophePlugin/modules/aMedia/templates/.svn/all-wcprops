@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/3196/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates
+END
+_itemFormScripts.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/2976/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/_itemFormScripts.php
+END
+_editDone.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/_editDone.php
+END
+_videoSearch.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/3027/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/_videoSearch.php
+END
+_pager.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/_pager.php
+END
+_mediaItem.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/3192/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/_mediaItem.php
+END
+multipleAddSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/multipleAddSuccess.php
+END
+_showTags.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/_showTags.php
+END
+_mediaItemEdit.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/_mediaItemEdit.php
+END
+_browserBefore.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/_browserBefore.php
+END
+linkPreviewAccountSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/linkPreviewAccountSuccess.php
+END
+showSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/3192/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/showSuccess.php
+END
+uploadSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/3026/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/uploadSuccess.php
+END
+editSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/2865/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/editSuccess.php
+END
+_selectSingle.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/3166/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/_selectSingle.php
+END
+_upload.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/3000/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/_upload.php
+END
+_editLinks.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/_editLinks.php
+END
+videoSearchSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/3020/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/videoSearchSuccess.php
+END
+linkSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/3037/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/linkSuccess.php
+END
+_configuredServices.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/2989/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/_configuredServices.php
+END
+editAjax.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/2865/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/editAjax.php
+END
+updateMultiplePreviewSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/updateMultiplePreviewSuccess.php
+END
+editMultipleSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/3026/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/editMultipleSuccess.php
+END
+_selectMultiple.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/3196/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/_selectMultiple.php
+END
+_unconfiguredServices.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/3031/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/_unconfiguredServices.php
+END
+cropSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/cropSuccess.php
+END
+_multiplePreview.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/_multiplePreview.php
+END
+_uploadMultiple.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/_uploadMultiple.php
+END
+_settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/2984/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/_settings.php
+END
+indexSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/3080/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/indexSuccess.php
+END
+multipleRemoveSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/multipleRemoveSuccess.php
+END
+searchServicesSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/3188/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/searchServicesSuccess.php
+END
+iframe.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/iframe.php
+END
+_browserAfter.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/_browserAfter.php
+END
+_mediaItemMeta.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/_mediaItemMeta.php
+END
+_breadcrumb.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/_breadcrumb.php
+END
+editVideoSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/3193/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/editVideoSuccess.php
+END
+_noMediaItemsArea.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/3130/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/_noMediaItemsArea.php
+END
+_describeConstraints.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/_describeConstraints.php
+END
+_addForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/3037/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/_addForm.php
+END
+_embed.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/3017/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/_embed.php
+END
+_browser.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/3020/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/_browser.php
+END
+_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/3193/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/_edit.php
+END
+_showCategories.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/2921/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/_showCategories.php
+END
+_multipleList.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/_multipleList.php
+END
+linkPreviewAccountError.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/linkPreviewAccountError.php
+END
+_mediaHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/3050/plugins/apostrophePlugin/branches/1.5/modules/aMedia/templates/_mediaHeader.php
+END

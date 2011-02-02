@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/test/fixtures/project/test/bootstrap
+END
+unit.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/test/fixtures/project/test/bootstrap/unit.php
+END
+functional.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/test/fixtures/project/test/bootstrap/functional.php
+END

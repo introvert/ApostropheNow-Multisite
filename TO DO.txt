@@ -1,0 +1,3 @@
+TO DO:
+- make navigation work
+- site icon

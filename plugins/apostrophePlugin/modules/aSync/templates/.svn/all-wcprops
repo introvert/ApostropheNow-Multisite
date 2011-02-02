@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/aSync/templates
+END
+clearAPCCacheNotActive.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/aSync/templates/clearAPCCacheNotActive.php
+END
+zipDemoSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/aSync/templates/zipDemoSuccess.php
+END
+clearAPCCacheSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/aSync/templates/clearAPCCacheSuccess.php
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/27426/plugins/sfDoctrineActAsTaggablePlugin/trunk/lib/task
+END
+taggableCleanTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/27426/plugins/sfDoctrineActAsTaggablePlugin/trunk/lib/task/taggableCleanTask.class.php
+END

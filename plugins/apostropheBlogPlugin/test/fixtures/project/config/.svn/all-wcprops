@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/test/fixtures/project/config
+END
+settings.yml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/test/fixtures/project/config/settings.yml
+END
+rsync_exclude.txt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/test/fixtures/project/config/rsync_exclude.txt
+END
+ProjectConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/test/fixtures/project/config/ProjectConfiguration.class.php
+END
+properties.ini
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/test/fixtures/project/config/properties.ini
+END

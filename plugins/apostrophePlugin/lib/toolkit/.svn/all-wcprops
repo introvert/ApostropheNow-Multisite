@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/3191/plugins/apostrophePlugin/branches/1.5/lib/toolkit
+END
+aEngineActions.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aEngineActions.class.php
+END
+aZendSearch.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/2949/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aZendSearch.class.php
+END
+aMigrate.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/3140/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aMigrate.class.php
+END
+aMediaCMSSlotsTools.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aMediaCMSSlotsTools.class.php
+END
+aGuid.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aGuid.class.php
+END
+aSubCrudTools.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aSubCrudTools.class.php
+END
+BaseaMediaTools.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/3134/plugins/apostrophePlugin/branches/1.5/lib/toolkit/BaseaMediaTools.class.php
+END
+aCategoryAdminGenerator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aCategoryAdminGenerator.class.php
+END
+aTools.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aTools.class.php
+END
+aMediaImporter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aMediaImporter.class.php
+END
+aImporter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/3067/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aImporter.class.php
+END
+aFiles.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aFiles.class.php
+END
+aDoctrineRouteCollection.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aDoctrineRouteCollection.class.php
+END
+aUrl.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aUrl.class.php
+END
+aFeed.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aFeed.class.php
+END
+aMediaAPI.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aMediaAPI.php
+END
+aImageConverterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aImageConverterTest.php
+END
+aString.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/2808/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aString.class.php
+END
+aDoctrine.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aDoctrine.class.php
+END
+aDimensions.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aDimensions.class.php
+END
+aRouteTools.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/2982/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aRouteTools.php
+END
+aMediaSelect.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aMediaSelect.class.php
+END
+aTaskTools.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aTaskTools.class.php
+END
+aEngineTools.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/2883/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aEngineTools.class.php
+END
+aGlobalButton.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/2920/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aGlobalButton.php
+END
+aSubCrudActions.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aSubCrudActions.class.php
+END
+aRoute.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/2982/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aRoute.php
+END
+aRules.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aRules.class.php
+END
+BaseaTools.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/3145/plugins/apostrophePlugin/branches/1.5/lib/toolkit/BaseaTools.class.php
+END
+aTagAdminGenerator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aTagAdminGenerator.class.php
+END
+aMediaTools.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aMediaTools.php
+END
+aArrayPager.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aArrayPager.class.php
+END
+aTrace.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aTrace.class.php
+END
+aSql.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/3067/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aSql.class.php
+END
+aHtml.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/3146/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aHtml.class.php
+END
+aMysql.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/2951/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aMysql.class.php
+END
+aDump.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aDump.class.php
+END
+aProcesses.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aProcesses.class.php
+END
+aImageConverter.class.php.edited
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aImageConverter.class.php.edited
+END
+aImageConverter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/3191/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aImageConverter.class.php
+END
+aToolkitEvents.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aToolkitEvents.class.php
+END
+aDate.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/2802/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aDate.class.php
+END
+aArray.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/2976/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aArray.class.php
+END
+aCsvReader.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aCsvReader.class.php
+END
+aRouteClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aRouteClass.php
+END
+aDoctrineRoute.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/2964/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aDoctrineRoute.php
+END
+aMediaRouting.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aMediaRouting.php
+END
+aEngineActions.class.php.edited
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aEngineActions.class.php.edited
+END
+aRouting.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/2979/plugins/apostrophePlugin/branches/1.5/lib/toolkit/aRouting.php
+END

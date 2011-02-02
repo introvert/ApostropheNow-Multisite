@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/3205/plugins/apostrophePlugin/branches/1.5/lib/action
+END
+BaseaVideoSlotActions.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/3004/plugins/apostrophePlugin/branches/1.5/lib/action/BaseaVideoSlotActions.class.php
+END
+BaseaSmartSlideshowSlotActions.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/3004/plugins/apostrophePlugin/branches/1.5/lib/action/BaseaSmartSlideshowSlotActions.class.php
+END
+BaseaPDFSlotActions.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/3004/plugins/apostrophePlugin/branches/1.5/lib/action/BaseaPDFSlotActions.class.php
+END
+aSlotComponents.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/3004/plugins/apostrophePlugin/branches/1.5/lib/action/aSlotComponents.class.php
+END
+BaseaButtonSlotActions.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/3004/plugins/apostrophePlugin/branches/1.5/lib/action/BaseaButtonSlotActions.class.php
+END
+BaseaActions.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/3004/plugins/apostrophePlugin/branches/1.5/lib/action/BaseaActions.class.php
+END
+BaseaRichTextSlotComponents.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/3004/plugins/apostrophePlugin/branches/1.5/lib/action/BaseaRichTextSlotComponents.class.php
+END
+aSlotActions.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/3004/plugins/apostrophePlugin/branches/1.5/lib/action/aSlotActions.class.php
+END
+BaseaMediaBackendActions.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/action/BaseaMediaBackendActions.class.php
+END
+BaseaFeedSlotComponents.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/3004/plugins/apostrophePlugin/branches/1.5/lib/action/BaseaFeedSlotComponents.class.php
+END
+BaseaRichTextSlotActions.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/3004/plugins/apostrophePlugin/branches/1.5/lib/action/BaseaRichTextSlotActions.class.php
+END
+BaseaPagerActions.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/action/BaseaPagerActions.class.php
+END
+BaseaPDFSlotComponents.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/3004/plugins/apostrophePlugin/branches/1.5/lib/action/BaseaPDFSlotComponents.class.php
+END
+BaseaButtonSlotComponents.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/3004/plugins/apostrophePlugin/branches/1.5/lib/action/BaseaButtonSlotComponents.class.php
+END
+BaseaSlideshowSlotActions.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/3004/plugins/apostrophePlugin/branches/1.5/lib/action/BaseaSlideshowSlotActions.class.php
+END
+BaseaAudioSlotActions.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/3004/plugins/apostrophePlugin/branches/1.5/lib/action/BaseaAudioSlotActions.class.php
+END
+BaseaComponents.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/3099/plugins/apostrophePlugin/branches/1.5/lib/action/BaseaComponents.class.php
+END
+BaseaRawHTMLSlotComponents.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/3004/plugins/apostrophePlugin/branches/1.5/lib/action/BaseaRawHTMLSlotComponents.class.php
+END
+BaseaGroupAdminActions.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/action/BaseaGroupAdminActions.class.php
+END
+BaseaImageSlotComponents.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/3004/plugins/apostrophePlugin/branches/1.5/lib/action/BaseaImageSlotComponents.class.php
+END
+BaseaTextSlotComponents.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/3035/plugins/apostrophePlugin/branches/1.5/lib/action/BaseaTextSlotComponents.class.php
+END
+BaseaSyncActions.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/action/BaseaSyncActions.class.php
+END
+BaseaMediaActions.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/3175/plugins/apostrophePlugin/branches/1.5/lib/action/BaseaMediaActions.class.php
+END
+BaseaRawHTMLSlotActions.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/3004/plugins/apostrophePlugin/branches/1.5/lib/action/BaseaRawHTMLSlotActions.class.php
+END
+BaseaSlotActions.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/action/BaseaSlotActions.class.php
+END
+BaseaFileSlotActions.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/3004/plugins/apostrophePlugin/branches/1.5/lib/action/BaseaFileSlotActions.class.php
+END
+BaseaNavigationComponents.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/action/BaseaNavigationComponents.class.php
+END
+BaseaImageSlotActions.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/3004/plugins/apostrophePlugin/branches/1.5/lib/action/BaseaImageSlotActions.class.php
+END
+BaseaTextSlotActions.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/3004/plugins/apostrophePlugin/branches/1.5/lib/action/BaseaTextSlotActions.class.php
+END
+BaseaSlideshowSlotComponents.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/3205/plugins/apostrophePlugin/branches/1.5/lib/action/BaseaSlideshowSlotComponents.class.php
+END
+BaseaAdminActions.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/action/BaseaAdminActions.class.php
+END
+BaseaAudioSlotComponents.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/3004/plugins/apostrophePlugin/branches/1.5/lib/action/BaseaAudioSlotComponents.class.php
+END
+BaseaVideoSlotComponents.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/3004/plugins/apostrophePlugin/branches/1.5/lib/action/BaseaVideoSlotComponents.class.php
+END
+BaseaSmartSlideshowSlotComponents.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/3004/plugins/apostrophePlugin/branches/1.5/lib/action/BaseaSmartSlideshowSlotComponents.class.php
+END
+BaseaPermissionAdminActions.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/action/BaseaPermissionAdminActions.class.php
+END
+BaseaMediaComponents.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/action/BaseaMediaComponents.class.php
+END
+BaseaFeedSlotActions.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/3004/plugins/apostrophePlugin/branches/1.5/lib/action/BaseaFeedSlotActions.class.php
+END
+BaseaSlotComponents.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/action/BaseaSlotComponents.class.php
+END
+BaseaFileSlotComponents.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/3004/plugins/apostrophePlugin/branches/1.5/lib/action/BaseaFileSlotComponents.class.php
+END

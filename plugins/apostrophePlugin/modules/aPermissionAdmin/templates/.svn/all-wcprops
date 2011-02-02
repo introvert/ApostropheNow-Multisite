@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/3170/plugins/apostrophePlugin/branches/1.5/modules/aPermissionAdmin/templates
+END
+_form_header.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/aPermissionAdmin/templates/_form_header.php
+END
+_list_header.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/aPermissionAdmin/templates/_list_header.php
+END
+_list_footer.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/3170/plugins/apostrophePlugin/branches/1.5/modules/aPermissionAdmin/templates/_list_footer.php
+END

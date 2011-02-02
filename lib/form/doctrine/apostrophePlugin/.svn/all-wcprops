@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/3182/sandboxes/asandbox/branches/1.5/lib/form/doctrine/apostrophePlugin
+END
+aRedirectForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/lib/form/doctrine/apostrophePlugin/aRedirectForm.class.php
+END
+aEmbedMediaAccountForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/lib/form/doctrine/apostrophePlugin/aEmbedMediaAccountForm.class.php
+END
+aCategoryGroupForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/lib/form/doctrine/apostrophePlugin/aCategoryGroupForm.class.php
+END
+aCategoryUserForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/lib/form/doctrine/apostrophePlugin/aCategoryUserForm.class.php
+END
+aPageForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/lib/form/doctrine/apostrophePlugin/aPageForm.class.php
+END
+aCategoryForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/lib/form/doctrine/apostrophePlugin/aCategoryForm.class.php
+END
+aMediaItemForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/lib/form/doctrine/apostrophePlugin/aMediaItemForm.class.php
+END

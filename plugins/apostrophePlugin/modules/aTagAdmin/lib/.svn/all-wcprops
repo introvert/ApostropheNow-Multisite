@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/3155/plugins/apostrophePlugin/branches/1.5/modules/aTagAdmin/lib
+END
+aTagAdminGeneratorHelper.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/aTagAdmin/lib/aTagAdminGeneratorHelper.class.php
+END
+BaseaTagAdminActions.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/3155/plugins/apostrophePlugin/branches/1.5/modules/aTagAdmin/lib/BaseaTagAdminActions.class.php
+END
+aTagAdminGeneratorConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/3152/plugins/apostrophePlugin/branches/1.5/modules/aTagAdmin/lib/aTagAdminGeneratorConfiguration.class.php
+END

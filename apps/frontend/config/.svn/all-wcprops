@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/3204/sandboxes/asandbox/branches/1.5/apps/frontend/config
+END
+app.yml.orig
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/apps/frontend/config/app.yml.orig
+END
+factories.yml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/3186/sandboxes/asandbox/branches/1.5/apps/frontend/config/factories.yml
+END
+app.yml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/3204/sandboxes/asandbox/branches/1.5/apps/frontend/config/app.yml
+END
+settings.yml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/apps/frontend/config/settings.yml
+END
+frontendConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/apps/frontend/config/frontendConfiguration.class.php
+END
+cache.yml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/apps/frontend/config/cache.yml
+END
+routing.yml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/2978/sandboxes/asandbox/branches/1.5/apps/frontend/config/routing.yml
+END
+security.yml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/apps/frontend/config/security.yml
+END
+filters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/apps/frontend/config/filters.yml
+END
+view.yml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/3204/sandboxes/asandbox/branches/1.5/apps/frontend/config/view.yml
+END

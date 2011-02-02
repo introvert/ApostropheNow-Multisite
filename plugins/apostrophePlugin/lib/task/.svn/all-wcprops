@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/3218/plugins/apostrophePlugin/branches/1.5/lib/task
+END
+repairtreeTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/3127/plugins/apostrophePlugin/branches/1.5/lib/task/repairtreeTask.class.php
+END
+apostropheImportFilesTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/task/apostropheImportFilesTask.class.php
+END
+aToolkitDeployTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/task/aToolkitDeployTask.class.php
+END
+toolkitSshTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/task/toolkitSshTask.class.php
+END
+aUpdateLinkedAccountsTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/3208/plugins/apostrophePlugin/branches/1.5/lib/task/aUpdateLinkedAccountsTask.class.php
+END
+apostropheMigratedatafrompkcontextcmsTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/3056/plugins/apostrophePlugin/branches/1.5/lib/task/apostropheMigratedatafrompkcontextcmsTask.class.php
+END
+updateluceneTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/3218/plugins/apostrophePlugin/branches/1.5/lib/task/updateluceneTask.class.php
+END
+aDemoFixturesTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/3218/plugins/apostrophePlugin/branches/1.5/lib/task/aDemoFixturesTask.class.php
+END
+apostropheOptimizeSearchIndexTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/task/apostropheOptimizeSearchIndexTask.class.php
+END
+toolkitRebuildIndexTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/3218/plugins/apostrophePlugin/branches/1.5/lib/task/toolkitRebuildIndexTask.class.php
+END
+apostrophePublishAllPagesTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/3117/plugins/apostrophePlugin/branches/1.5/lib/task/apostrophePublishAllPagesTask.class.php
+END
+apostropheMigratefrompkcontextcmsTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/3004/plugins/apostrophePlugin/branches/1.5/lib/task/apostropheMigratefrompkcontextcmsTask.class.php
+END
+aToolkitAfterdeployTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/task/aToolkitAfterdeployTask.class.php
+END
+apostropheCascadeEditPermissionsTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/task/apostropheCascadeEditPermissionsTask.class.php
+END
+apostropheMigrateTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/3175/plugins/apostrophePlugin/branches/1.5/lib/task/apostropheMigrateTask.class.php
+END
+aRefreshTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/task/aRefreshTask.class.php
+END
+aGenerateSlotTypeTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/3004/plugins/apostrophePlugin/branches/1.5/lib/task/aGenerateSlotTypeTask.class.php
+END
+aImportSiteTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/2905/plugins/apostrophePlugin/branches/1.5/lib/task/aImportSiteTask.class.php
+END

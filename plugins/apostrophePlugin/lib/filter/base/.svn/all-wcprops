@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/3170/plugins/apostrophePlugin/branches/1.5/lib/filter/base
+END
+BaseaGroupAdminFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/filter/base/BaseaGroupAdminFilter.class.php
+END
+BaseaUserAdminFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/3170/plugins/apostrophePlugin/branches/1.5/lib/filter/base/BaseaUserAdminFilter.class.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/test
+END
+aTestTools.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/test/aTestTools.class.php
+END
+aTestFunctional.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/test/aTestFunctional.class.php
+END
+aBrowser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/test/aBrowser.class.php
+END

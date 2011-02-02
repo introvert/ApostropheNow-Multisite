@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostropheBlogPlugin/base
+END
+BaseaBlogPost.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostropheBlogPlugin/base/BaseaBlogPost.class.php
+END
+BaseaBlogEditor.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostropheBlogPlugin/base/BaseaBlogEditor.class.php
+END
+BaseaEvent.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostropheBlogPlugin/base/BaseaEvent.class.php
+END
+BaseaBlogItem.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostropheBlogPlugin/base/BaseaBlogItem.class.php
+END
+BaseaBlogItemToCategory.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostropheBlogPlugin/base/BaseaBlogItemToCategory.class.php
+END
+BaseaEventSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostropheBlogPlugin/base/BaseaEventSlot.class.php
+END
+BaseaBlogSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostropheBlogPlugin/base/BaseaBlogSlot.class.php
+END
+BaseaEventSingleSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostropheBlogPlugin/base/BaseaEventSingleSlot.class.php
+END
+BaseaBlogSingleSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostropheBlogPlugin/base/BaseaBlogSingleSlot.class.php
+END

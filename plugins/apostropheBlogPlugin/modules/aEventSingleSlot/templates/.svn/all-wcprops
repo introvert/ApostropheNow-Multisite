@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/3199/plugins/apostropheBlogPlugin/branches/1.5/modules/aEventSingleSlot/templates
+END
+_editView.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/3199/plugins/apostropheBlogPlugin/branches/1.5/modules/aEventSingleSlot/templates/_editView.php
+END
+_normalView.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/3199/plugins/apostropheBlogPlugin/branches/1.5/modules/aEventSingleSlot/templates/_normalView.php
+END
+_post.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/2824/plugins/apostropheBlogPlugin/branches/1.5/modules/aEventSingleSlot/templates/_post.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/2979/plugins/apostrophePlugin/branches/1.5/config
+END
+app.yml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/config/app.yml.sample
+END
+settings.yml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/2649/plugins/apostrophePlugin/branches/1.5/config/settings.yml.sample
+END
+apostrophePluginConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/2979/plugins/apostrophePlugin/branches/1.5/config/apostrophePluginConfiguration.class.php
+END
+routing.yml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/config/routing.yml.sample
+END

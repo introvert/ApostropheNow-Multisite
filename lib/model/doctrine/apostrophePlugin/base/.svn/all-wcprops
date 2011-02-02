@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/2978/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostrophePlugin/base
+END
+BaseaEmbedMediaAccount.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostrophePlugin/base/BaseaEmbedMediaAccount.class.php
+END
+BaseaSlotMediaItem.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostrophePlugin/base/BaseaSlotMediaItem.class.php
+END
+BaseaRedirect.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostrophePlugin/base/BaseaRedirect.class.php
+END
+BaseaSlideshowSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostrophePlugin/base/BaseaSlideshowSlot.class.php
+END
+BaseaAudioSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostrophePlugin/base/BaseaAudioSlot.class.php
+END
+BaseaVideoSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostrophePlugin/base/BaseaVideoSlot.class.php
+END
+BaseaSmartSlideshowSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostrophePlugin/base/BaseaSmartSlideshowSlot.class.php
+END
+BaseaPage.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostrophePlugin/base/BaseaPage.class.php
+END
+BaseaCategoryUser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostrophePlugin/base/BaseaCategoryUser.class.php
+END
+BaseaPageToCategory.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostrophePlugin/base/BaseaPageToCategory.class.php
+END
+BaseaAreaVersion.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostrophePlugin/base/BaseaAreaVersion.class.php
+END
+BaseaGroupAccess.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostrophePlugin/base/BaseaGroupAccess.class.php
+END
+BaseaSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostrophePlugin/base/BaseaSlot.class.php
+END
+BaseaFileSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostrophePlugin/base/BaseaFileSlot.class.php
+END
+BaseaMediaBrowserSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostrophePlugin/base/BaseaMediaBrowserSlot.class.php
+END
+BaseaCategoryGroup.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostrophePlugin/base/BaseaCategoryGroup.class.php
+END
+BaseaRichTextSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostrophePlugin/base/BaseaRichTextSlot.class.php
+END
+BaseaMediaItem.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostrophePlugin/base/BaseaMediaItem.class.php
+END
+BaseaMediaItemToCategory.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostrophePlugin/base/BaseaMediaItemToCategory.class.php
+END
+BaseaAccess.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostrophePlugin/base/BaseaAccess.class.php
+END
+BaseaFeedSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostrophePlugin/base/BaseaFeedSlot.class.php
+END
+BaseaNewRichTextSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostrophePlugin/base/BaseaNewRichTextSlot.class.php
+END
+BaseaArea.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostrophePlugin/base/BaseaArea.class.php
+END
+BaseaPDFSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostrophePlugin/base/BaseaPDFSlot.class.php
+END
+BaseaButtonSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostrophePlugin/base/BaseaButtonSlot.class.php
+END
+BaseaCategory.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/2978/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostrophePlugin/base/BaseaCategory.class.php
+END
+BaseaLuceneUpdate.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostrophePlugin/base/BaseaLuceneUpdate.class.php
+END
+BaseaSlot.class.php.orig
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostrophePlugin/base/BaseaSlot.class.php.orig
+END
+BaseaRawHTMLSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostrophePlugin/base/BaseaRawHTMLSlot.class.php
+END
+BaseaAreaVersionSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostrophePlugin/base/BaseaAreaVersionSlot.class.php
+END
+BaseaImageSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostrophePlugin/base/BaseaImageSlot.class.php
+END
+BaseaTextSlot.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/model/doctrine/apostrophePlugin/base/BaseaTextSlot.class.php
+END

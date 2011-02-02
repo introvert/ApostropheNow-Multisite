@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/2779/plugins/apostrophePlugin/branches/1.5/lib/lessphp
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/2779/plugins/apostrophePlugin/branches/1.5/lib/lessphp/LICENSE
+END
+lessc.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/2779/plugins/apostrophePlugin/branches/1.5/lib/lessphp/lessc.inc.php
+END
+plessc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/2779/plugins/apostrophePlugin/branches/1.5/lib/lessphp/plessc
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/2779/plugins/apostrophePlugin/branches/1.5/lib/lessphp/README
+END

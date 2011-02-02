@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/3074/plugins/apostropheBlogPlugin/branches/1.5/modules/aEventAdmin/lib
+END
+BaseaEventAdminActions.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/3074/plugins/apostropheBlogPlugin/branches/1.5/modules/aEventAdmin/lib/BaseaEventAdminActions.class.php
+END
+aEventAdminGeneratorConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/modules/aEventAdmin/lib/aEventAdminGeneratorConfiguration.class.php
+END
+BaseaEventAdminComponents.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/modules/aEventAdmin/lib/BaseaEventAdminComponents.class.php
+END
+aEventAdminGeneratorHelper.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/2613/plugins/apostropheBlogPlugin/branches/1.5/modules/aEventAdmin/lib/aEventAdminGeneratorHelper.class.php
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/3178/plugins/apostrophePlugin/branches/1.5/lib/embedService
+END
+aViddler.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/3178/plugins/apostrophePlugin/branches/1.5/lib/embedService/aViddler.class.php
+END
+aYoutube.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/3027/plugins/apostrophePlugin/branches/1.5/lib/embedService/aYoutube.class.php
+END
+aEmbedService.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/3178/plugins/apostrophePlugin/branches/1.5/lib/embedService/aEmbedService.class.php
+END
+aVimeo.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/3140/plugins/apostrophePlugin/branches/1.5/lib/embedService/aVimeo.class.php
+END
+aSlideShare.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/3178/plugins/apostrophePlugin/branches/1.5/lib/embedService/aSlideShare.class.php
+END

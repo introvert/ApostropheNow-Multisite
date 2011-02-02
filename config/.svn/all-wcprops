@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/3032/sandboxes/asandbox/branches/1.5/config
+END
+require-core.php.example
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/config/require-core.php.example
+END
+vhost.sample
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/config/vhost.sample
+END
+rsync_exclude.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/3032/sandboxes/asandbox/branches/1.5/config/rsync_exclude.txt
+END
+databases.yml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/config/databases.yml.sample
+END
+ProjectConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/config/ProjectConfiguration.class.php
+END
+properties.ini.sample
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/config/properties.ini.sample
+END

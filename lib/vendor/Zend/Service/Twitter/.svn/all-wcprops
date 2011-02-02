@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/framework/!svn/ver/20291/standard/branches/release-1.10/library/Zend/Service/Twitter
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/framework/!svn/ver/20291/standard/branches/release-1.10/library/Zend/Service/Twitter/Exception.php
+END
+Search.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/framework/!svn/ver/20291/standard/branches/release-1.10/library/Zend/Service/Twitter/Search.php
+END

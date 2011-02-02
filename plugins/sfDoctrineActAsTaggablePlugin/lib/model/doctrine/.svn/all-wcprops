@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/31847/plugins/sfDoctrineActAsTaggablePlugin/trunk/lib/model/doctrine
+END
+PluginTaggingTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/12183/plugins/sfDoctrineActAsTaggablePlugin/trunk/lib/model/doctrine/PluginTaggingTable.class.php
+END
+PluginTag.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/12183/plugins/sfDoctrineActAsTaggablePlugin/trunk/lib/model/doctrine/PluginTag.class.php
+END
+PluginTagging.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/12183/plugins/sfDoctrineActAsTaggablePlugin/trunk/lib/model/doctrine/PluginTagging.class.php
+END
+PluginTagTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/31847/plugins/sfDoctrineActAsTaggablePlugin/trunk/lib/model/doctrine/PluginTagTable.class.php
+END

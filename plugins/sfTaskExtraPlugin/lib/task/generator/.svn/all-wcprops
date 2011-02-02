@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/28275/plugins/sfTaskExtraPlugin/branches/1.3/lib/task/generator
+END
+sfGeneratePluginTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/25032/plugins/sfTaskExtraPlugin/branches/1.3/lib/task/generator/sfGeneratePluginTask.class.php
+END
+sfGenerateTestTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/26469/plugins/sfTaskExtraPlugin/branches/1.3/lib/task/generator/sfGenerateTestTask.class.php
+END
+sfGenerateControllerTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/25037/plugins/sfTaskExtraPlugin/branches/1.3/lib/task/generator/sfGenerateControllerTask.class.php
+END
+sfGeneratePluginModuleTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/25018/plugins/sfTaskExtraPlugin/branches/1.3/lib/task/generator/sfGeneratePluginModuleTask.class.php
+END
+sfTaskExtraGeneratorBaseTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/25037/plugins/sfTaskExtraPlugin/branches/1.3/lib/task/generator/sfTaskExtraGeneratorBaseTask.class.php
+END

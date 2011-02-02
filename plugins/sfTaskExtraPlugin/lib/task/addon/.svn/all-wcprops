@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/25056/plugins/sfTaskExtraPlugin/branches/1.3/lib/task/addon
+END
+sfTaskExtraAddon.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/25056/plugins/sfTaskExtraPlugin/branches/1.3/lib/task/addon/sfTaskExtraAddon.class.php
+END
+sfTaskExtraBuildModelAddon.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/25018/plugins/sfTaskExtraPlugin/branches/1.3/lib/task/addon/sfTaskExtraBuildModelAddon.class.php
+END

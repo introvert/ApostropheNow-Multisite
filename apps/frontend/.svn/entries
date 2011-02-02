@@ -1,0 +1,43 @@
+10
+
+dir
+3225
+http://svn.apostrophenow.org/sandboxes/asandbox/branches/1.5/apps/frontend
+http://svn.apostrophenow.org
+
+
+
+2011-01-19T16:38:05.619933Z
+3225
+tboutell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c89fab08-2f9b-42bf-8176-bd3ad6bee547
+
+i18n
+dir
+
+config
+dir
+
+lib
+dir
+
+modules
+dir
+
+templates
+dir
+

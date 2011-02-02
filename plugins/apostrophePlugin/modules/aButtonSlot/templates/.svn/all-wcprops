@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/3156/plugins/apostrophePlugin/branches/1.5/modules/aButtonSlot/templates
+END
+_defaultTemplate.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/3156/plugins/apostrophePlugin/branches/1.5/modules/aButtonSlot/templates/_defaultTemplate.php
+END
+_editView.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/aButtonSlot/templates/_editView.php
+END
+_normalView.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/3036/plugins/apostrophePlugin/branches/1.5/modules/aButtonSlot/templates/_normalView.php
+END

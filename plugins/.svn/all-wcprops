@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/2784/sandboxes/asandbox/branches/1.5/plugins
+END
+.depdblock
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/plugins/.depdblock
+END
+.lock
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/plugins/.lock
+END
+.filemap
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/plugins/.filemap
+END
+.depdb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/plugins/.depdb
+END

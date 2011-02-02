@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/2918/plugins/apostrophePlugin/branches/1.5/lib/minify
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/minify/LICENSE.txt
+END
+Minify.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/minify/Minify.php
+END
+ABOUT-MINIFY-AND-APOSTROPHE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/minify/ABOUT-MINIFY-AND-APOSTROPHE.txt
+END
+FirePHP.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/minify/FirePHP.php
+END
+JSMin.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/minify/JSMin.php
+END
+JSMinPlus.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/minify/JSMinPlus.php
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/minify/README.txt
+END

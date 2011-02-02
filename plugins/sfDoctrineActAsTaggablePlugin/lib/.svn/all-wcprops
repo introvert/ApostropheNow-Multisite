@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/31847/plugins/sfDoctrineActAsTaggablePlugin/trunk/lib
+END
+TaggableToolkit.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/31847/plugins/sfDoctrineActAsTaggablePlugin/trunk/lib/TaggableToolkit.class.php
+END
+taggableRouting.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/30229/plugins/sfDoctrineActAsTaggablePlugin/trunk/lib/taggableRouting.class.php
+END
+TaggableTemplate.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/31847/plugins/sfDoctrineActAsTaggablePlugin/trunk/lib/TaggableTemplate.class.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/2906/plugins/apostropheBlogPlugin/branches/1.5/lib/task
+END
+aBlogGenerateTestEventsTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/2824/plugins/apostropheBlogPlugin/branches/1.5/lib/task/aBlogGenerateTestEventsTask.class.php
+END
+aBlogGenerateTestPostsTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/2824/plugins/apostropheBlogPlugin/branches/1.5/lib/task/aBlogGenerateTestPostsTask.class.php
+END
+aBlogImportTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/2906/plugins/apostropheBlogPlugin/branches/1.5/lib/task/aBlogImportTask.class.php
+END

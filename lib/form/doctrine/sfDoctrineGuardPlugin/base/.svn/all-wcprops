@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/form/doctrine/sfDoctrineGuardPlugin/base
+END
+BasesfGuardUserGroupForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/lib/form/doctrine/sfDoctrineGuardPlugin/base/BasesfGuardUserGroupForm.class.php
+END
+BasesfGuardGroupForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/form/doctrine/sfDoctrineGuardPlugin/base/BasesfGuardGroupForm.class.php
+END
+BasesfGuardUserForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/form/doctrine/sfDoctrineGuardPlugin/base/BasesfGuardUserForm.class.php
+END
+BasesfGuardGroupPermissionForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/lib/form/doctrine/sfDoctrineGuardPlugin/base/BasesfGuardGroupPermissionForm.class.php
+END
+BasesfGuardRememberKeyForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/lib/form/doctrine/sfDoctrineGuardPlugin/base/BasesfGuardRememberKeyForm.class.php
+END
+BasesfGuardUserPermissionForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/lib/form/doctrine/sfDoctrineGuardPlugin/base/BasesfGuardUserPermissionForm.class.php
+END
+BasesfGuardPermissionForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/form/doctrine/sfDoctrineGuardPlugin/base/BasesfGuardPermissionForm.class.php
+END

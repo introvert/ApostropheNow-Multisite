@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/2823/plugins/apostrophePlugin/branches/1.5/modules/aUserAdmin/config
+END
+generator.yml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/2823/plugins/apostrophePlugin/branches/1.5/modules/aUserAdmin/config/generator.yml
+END
+security.yml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/aUserAdmin/config/security.yml
+END
+view.yml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/aUserAdmin/config/view.yml
+END

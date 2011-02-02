@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/2682/plugins/apostrophePlugin/branches/1.5/lib/validator
+END
+aValidatorFilePersistent.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/validator/aValidatorFilePersistent.class.php
+END
+aValidatedFile.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/validator/aValidatedFile.class.php
+END
+aValidatorSlug.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/2682/plugins/apostrophePlugin/branches/1.5/lib/validator/aValidatorSlug.class.php
+END
+sfValidatorHtml.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/validator/sfValidatorHtml.class.php
+END

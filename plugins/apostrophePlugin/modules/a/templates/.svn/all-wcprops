@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/3206/plugins/apostrophePlugin/branches/1.5/modules/a/templates
+END
+_addSlot.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/3150/plugins/apostrophePlugin/branches/1.5/modules/a/templates/_addSlot.php
+END
+_simpleEditButton.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/a/templates/_simpleEditButton.php
+END
+searchSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/2936/plugins/apostrophePlugin/branches/1.5/modules/a/templates/searchSuccess.php
+END
+revertSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/a/templates/revertSuccess.php
+END
+_allPrivileges.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/3088/plugins/apostrophePlugin/branches/1.5/modules/a/templates/_allPrivileges.php
+END
+moveSlotSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/2707/plugins/apostrophePlugin/branches/1.5/modules/a/templates/moveSlotSuccess.php
+END
+_simpleEditWithVariants.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/2769/plugins/apostrophePlugin/branches/1.5/modules/a/templates/_simpleEditWithVariants.php
+END
+_globalProjectButtons.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/a/templates/_globalProjectButtons.php
+END
+_login.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/3026/plugins/apostrophePlugin/branches/1.5/modules/a/templates/_login.php
+END
+error404Success.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/3130/plugins/apostrophePlugin/branches/1.5/modules/a/templates/error404Success.php
+END
+_signinForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/3187/plugins/apostrophePlugin/branches/1.5/modules/a/templates/_signinForm.php
+END
+layout.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/3130/plugins/apostrophePlugin/branches/1.5/modules/a/templates/layout.php
+END
+secureSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/a/templates/secureSuccess.php
+END
+_slot.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/2833/plugins/apostrophePlugin/branches/1.5/modules/a/templates/_slot.php
+END
+_globalTools.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/3092/plugins/apostrophePlugin/branches/1.5/modules/a/templates/_globalTools.php
+END
+_language.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/a/templates/_language.php
+END
+settingsRedirect.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/a/templates/settingsRedirect.php
+END
+addSlotSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/a/templates/addSlotSuccess.php
+END
+homeTemplate.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/2691/plugins/apostrophePlugin/branches/1.5/modules/a/templates/homeTemplate.php
+END
+_ajaxUpdateSlot.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/a/templates/_ajaxUpdateSlot.php
+END
+settingsSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/3187/plugins/apostrophePlugin/branches/1.5/modules/a/templates/settingsSuccess.php
+END
+historySuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/3135/plugins/apostrophePlugin/branches/1.5/modules/a/templates/historySuccess.php
+END
+deleteSlotSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/2709/plugins/apostrophePlugin/branches/1.5/modules/a/templates/deleteSlotSuccess.php
+END
+_subnav.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/3020/plugins/apostrophePlugin/branches/1.5/modules/a/templates/_subnav.php
+END
+_footer.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/a/templates/_footer.php
+END
+reorganizeSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/a/templates/reorganizeSuccess.php
+END
+_variant.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/3206/plugins/apostrophePlugin/branches/1.5/modules/a/templates/_variant.php
+END
+_search.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/a/templates/_search.php
+END
+_historyBrowser.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/3095/plugins/apostrophePlugin/branches/1.5/modules/a/templates/_historyBrowser.php
+END
+_area.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/3150/plugins/apostrophePlugin/branches/1.5/modules/a/templates/_area.php
+END
+_breadcrumbExtra.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/a/templates/_breadcrumbExtra.php
+END
+_globalJavascripts.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/3123/plugins/apostrophePlugin/branches/1.5/modules/a/templates/_globalJavascripts.php
+END
+_engineCategories.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/2984/plugins/apostrophePlugin/branches/1.5/modules/a/templates/_engineCategories.php
+END
+slugifySuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/a/templates/slugifySuccess.php
+END
+error404Template.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/3044/plugins/apostrophePlugin/branches/1.5/modules/a/templates/error404Template.php
+END
+_globalButtons.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/2694/plugins/apostrophePlugin/branches/1.5/modules/a/templates/_globalButtons.php
+END
+engineSettingsSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/2984/plugins/apostrophePlugin/branches/1.5/modules/a/templates/engineSettingsSuccess.php
+END
+_editView.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/a/templates/_editView.php
+END
+defaultTemplate.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/3099/plugins/apostrophePlugin/branches/1.5/modules/a/templates/defaultTemplate.php
+END
+_normalView.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/a/templates/_normalView.php
+END
+cleanSigninSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/a/templates/cleanSigninSuccess.php
+END
+_apostrophe.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/2694/plugins/apostrophePlugin/branches/1.5/modules/a/templates/_apostrophe.php
+END
+_showArchived.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/2704/plugins/apostrophePlugin/branches/1.5/modules/a/templates/_showArchived.php
+END
+_doNotEdit.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/a/templates/_doNotEdit.php
+END

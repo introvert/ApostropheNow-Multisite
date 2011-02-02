@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/minify/HTTP
+END
+Encoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/minify/HTTP/Encoder.php
+END
+ConditionalGet.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/minify/HTTP/ConditionalGet.php
+END

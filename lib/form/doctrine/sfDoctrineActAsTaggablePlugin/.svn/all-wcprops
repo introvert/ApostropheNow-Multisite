@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/form/doctrine/sfDoctrineActAsTaggablePlugin
+END
+TagForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/lib/form/doctrine/sfDoctrineActAsTaggablePlugin/TagForm.class.php
+END
+TaggingForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/lib/form/doctrine/sfDoctrineActAsTaggablePlugin/TaggingForm.class.php
+END

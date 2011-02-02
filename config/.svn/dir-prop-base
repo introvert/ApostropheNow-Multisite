@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 95
+# You need to set up your own versions of these.
+properties.ini
+databases.yml
+require-core.php
+
+END

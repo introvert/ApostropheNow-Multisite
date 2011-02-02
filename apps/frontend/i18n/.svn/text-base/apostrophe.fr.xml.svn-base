@@ -1,0 +1,1247 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+<file original="apostrophe" source-language="en_US" datatype="plaintext">
+<body>
+<trans-unit id="1">
+<source>Click edit to add text.</source>
+<target>Cliquer &amp;laquo;&amp;nbsp;Editer&amp;nbsp;&amp;raquo; pour ajouter du texte.</target>
+</trans-unit>
+<trans-unit id="2">
+<source>Choose images</source>
+<target>Choisir des images</target>
+</trans-unit>
+<trans-unit id="3">
+<source>Create a Slideshow</source>
+<target>Créer un diaporama</target>
+</trans-unit>
+<trans-unit id="4">
+<source>Photo Credit: %credit%</source>
+<target>Crédit de la photo: %credit%</target>
+</trans-unit>
+<trans-unit id="5">
+<source>Previous</source>
+<target>Précédent</target>
+</trans-unit>
+<trans-unit id="6">
+<source>Next</source>
+<target>Suivant</target>
+</trans-unit>
+<trans-unit id="7">
+<source>Click For Next Image</source>
+<target>Cliquer pour l'image suivante</target>
+</trans-unit>
+<trans-unit id="8">
+<source>Choose image</source>
+<target>Choisir une image</target>
+</trans-unit>
+<trans-unit id="9">
+<source>Select an Image</source>
+<target>Sélectionner une image</target>
+</trans-unit>
+<trans-unit id="10">
+<source>Select to Add</source>
+<target>Sélectionner pour ajouter</target>
+</trans-unit>
+<trans-unit id="11">
+<source>Clear Search</source>
+<target>Réinitialiser la recherche</target>
+</trans-unit>
+<trans-unit id="12">
+<source>Click to Search</source>
+<target>Cliquer pour rechercher</target>
+</trans-unit>
+<trans-unit id="13">
+<source>Search</source>
+<target>Chercher</target>
+</trans-unit>
+<trans-unit id="14">
+<source>Submit</source>
+<target>Envoyer</target>
+</trans-unit>
+<trans-unit id="15">
+<source>Media Types</source>
+<target>Types de média</target>
+</trans-unit>
+<trans-unit id="16">
+<source>Categories</source>
+<target>Catégories</target>
+</trans-unit>
+<trans-unit id="20">
+<source>Selected Tag</source>
+<target>Etiquette sélectionnée</target>
+</trans-unit>
+<trans-unit id="21">
+<source>Popular Tags</source>
+<target>Etiquettes populaires</target>
+</trans-unit>
+<trans-unit id="22">
+<source>All Tags</source>
+<target>Toutes les étiquettes</target>
+</trans-unit>
+<trans-unit id="23">
+<source>add</source>
+<target>Ajouter</target>
+</trans-unit>
+<trans-unit id="24">
+<source>Cancel</source>
+<target>Annuler</target>
+</trans-unit>
+<trans-unit id="25">
+<source>New Category</source>
+<target>Nouvelle catégorie</target>
+</trans-unit>
+<trans-unit id="26">
+<source>Remove</source>
+<target>Retirer</target>
+</trans-unit>
+<trans-unit id="27">
+<source>, </source>
+<target>,</target>
+</trans-unit>
+<trans-unit id="28">
+<source>&lt;span&gt;Original Dimensions:&lt;/span&gt; %width%x%height%</source>
+<target>&lt;span&gt;Dimensions originales&amp;nbsp;:&lt;/span&gt; %width%x%height%</target>
+</trans-unit>
+<trans-unit id="29">
+<source>&lt;span&gt;Uploaded:&lt;/span&gt; %date%</source>
+<target>&lt;span&gt;Enregistré le&amp;nbsp;:&lt;/span&gt; %date%</target>
+</trans-unit>
+<trans-unit id="30">
+<source>&lt;span&gt;Credit:&lt;/span&gt; %credit%</source>
+<target>&lt;span&gt;Crédit&amp;nbsp;:&lt;/span&gt; %credit%</target>
+</trans-unit>
+<trans-unit id="31">
+<source>&lt;span&gt;Categories:&lt;/span&gt; %categories%</source>
+<target>&lt;span&gt;Catégories&amp;nbsp;:&lt;/span&gt; %categories%</target>
+</trans-unit>
+<trans-unit id="32">
+<source>&lt;span&gt;Tags:&lt;/span&gt; %tags%</source>
+<target>&lt;span&gt;Etiquettes&amp;nbsp;:&lt;/span&gt; %tags%</target>
+</trans-unit>
+<trans-unit id="33">
+<source>&lt;span&gt;URL:&lt;/span&gt; %urlfield%</source>
+<target>&lt;span&gt;URL:&lt;/span&gt; %urlfield%</target>
+</trans-unit>
+<trans-unit id="34">
+<source>Go</source>
+<target>Envoyer</target>
+</trans-unit>
+<trans-unit id="35">
+<source>No matching videos were found. Try being less specific.</source>
+<target>Aucune vidéo n'a été trouvée. Essayez d'être moins spécifique.</target>
+</trans-unit>
+<trans-unit id="36">
+<source>Select%buttonspan%</source>
+<target>Sélectionner%buttonspan%</target>
+</trans-unit>
+<trans-unit id="37">
+<source>Editing Video: %title%</source>
+<target>Edition de la vidéo&amp;nbsp;: %title%</target>
+</trans-unit>
+<trans-unit id="38">
+<source>Add Video</source>
+<target>Ajouter une vidéo</target>
+</trans-unit>
+<trans-unit id="39">
+<source>That is not a valid YouTube video URL.</source>
+<target>Ce n'est pas une URL valide pour une vidéo YouTube.</target>
+</trans-unit>
+<trans-unit id="40">
+<source>Tags should be separated by commas. Example: student life, chemistry, laboratory</source>
+<target>Les étiquettes doivent être séparée par des virgules. Exemple&amp;nbsp;: vie étudiante, chimie, laboratoire</target>
+</trans-unit>
+<trans-unit id="41">
+<source>Save</source>
+<target>Sauver</target>
+</trans-unit>
+<trans-unit id="42">
+<source>Delete</source>
+<target>Effacer</target>
+</trans-unit>
+<trans-unit id="43">
+<source>Are you sure you want to delete this item?</source>
+<target>Etes-vous sur de vouloir effacer cet élément&amp;nbsp;?</target>
+</trans-unit>
+<trans-unit id="44">
+<source>Search YouTube</source>
+<target>Chercher sur YouTube</target>
+</trans-unit>
+<trans-unit id="45">
+<source>Add by YouTube URL</source>
+<target>Ajouter par URL YouTube</target>
+</trans-unit>
+<trans-unit id="46">
+<source>Add by Embed Code</source>
+<target>Ajouter par code d'intégration</target>
+</trans-unit>
+<trans-unit id="47">
+<source>Add by URL</source>
+<target>Ajouter par URL</target>
+</trans-unit>
+<trans-unit id="48">
+<source>Example: http://www.youtube.com/watch?v=EwTZ2xpQwpA</source>
+<target>Exemple&amp;nbsp;: http://www.youtube.com/watch?v=EwTZ2xpQwpA</target>
+</trans-unit>
+<trans-unit id="49">
+<source>Example: %embed%</source>
+<target>Exemple&amp;nbsp;: %embed%</target>
+</trans-unit>
+<trans-unit id="50">
+<source>Editing PDF: %title%</source>
+<target>Edition du PDF&amp;nbsp;: %title%</target>
+</trans-unit>
+<trans-unit id="51">
+<source>Add PDF</source>
+<target>Ajouter un PDF</target>
+</trans-unit>
+<trans-unit id="52">
+<source>That is not a valid PDF.</source>
+<target>Ce n'est pas un PDF valide.</target>
+</trans-unit>
+<trans-unit id="53">
+<source>remove this item</source>
+<target>Retirer cet élément</target>
+</trans-unit>
+<trans-unit id="54">
+<source>Drag &amp;amp; Drop to Order</source>
+<target>Glisser &amp; Déposer pour réordonner</target>
+</trans-unit>
+<trans-unit id="55">
+<source>cancel</source>
+<target>Annuler</target>
+</trans-unit>
+<trans-unit id="56">
+<source>Add Images</source>
+<target>Ajouter des images</target>
+</trans-unit>
+<trans-unit id="57">
+<source>Media Library</source>
+<target>Librairie de média</target>
+</trans-unit>
+<trans-unit id="58">
+<source>Original Dimensions:</source>
+<target>Dimensions originales&amp;nbps;:</target>
+</trans-unit>
+<trans-unit id="59">
+<source>%width%x%height%</source>
+<target>%width%x%height%</target>
+</trans-unit>
+<trans-unit id="60">
+<source>Uploaded:</source>
+<target>Envoyé&amp;nbsp;:</target>
+</trans-unit>
+<trans-unit id="61">
+<source>Credit:</source>
+<target>Crédit&amp;nbsp;:</target>
+</trans-unit>
+<trans-unit id="62">
+<source>Categories:</source>
+<target>Catégories&amp;nbsp;:</target>
+</trans-unit>
+<trans-unit id="63">
+<source>Tags:</source>
+<target>Etiquettes&amp;nbsp;:</target>
+</trans-unit>
+<trans-unit id="64">
+<source>Download Original%buttonspan%</source>
+<target>Télécharger l'original%buttonspan%</target>
+</trans-unit>
+<trans-unit id="65">
+<source>Select one or more %typeplural% by clicking on them below. Drag and drop %typeplural%  to reorder them within the list of selected items. Remove %typeplural% by clicking on the trashcan.</source>
+<target>Sélectionnez un ou plusieurs %typeplural% en cliquant dessus ci-dessous. Glissez et déposez les %typeplural% pour les réordonner dans la liste des éléments sélectionnés. Retirez les %typeplural% en cliquant sur la corbeille.</target>
+</trans-unit>
+<trans-unit id="66">
+<source>Only appropriately sized %typeplural% are shown.</source>
+<target>Seuls les %typeplural% de taille correcte sont montrés.</target>
+</trans-unit>
+<trans-unit id="67">
+<source>When you're done, click &quot;Save.&quot;</source>
+<target>Quand vous avez terminé, cliquez sur &amp;laquo;&amp;nbsp;Sauver.&amp;nbsp;&amp;raquo;</target>
+</trans-unit>
+<trans-unit id="68">
+<source>Upload Images</source>
+<target>Envoyer des images</target>
+</trans-unit>
+<trans-unit id="69">
+<source>Add Another Photo</source>
+<target>Ajouter une autre photo</target>
+</trans-unit>
+<trans-unit id="70">
+<source>You are editing: %title%</source>
+<target>Vous éditez&amp;nbsp;: %title%</target>
+</trans-unit>
+<trans-unit id="72">
+<source>Hidden Photos can be used in photo slots, but are not displayed in the Media section.</source>
+<target>Les photos cachées peuvent être utilisées dans les emplacements photo mais ne sont pas affichées dans la section média.</target>
+</trans-unit>
+<trans-unit id="73">
+<source>Use the browsing and searching features to locate the %type% you want, then click on that %type% to select it.</source>
+<target>Utilisez la navigation et la recherche pour localiser le %type% que vous souhaitez. Cliquez ensuite sur ce %type% pour le sélectionner.</target>
+</trans-unit>
+<trans-unit id="74">
+<source>Edit</source>
+<target>Editer</target>
+</trans-unit>
+<trans-unit id="75">
+<source>Download Original</source>
+<target>Télécharger l'original</target>
+</trans-unit>
+<trans-unit id="76">
+<source>Annotate Images</source>
+<target>Annoter les images</target>
+</trans-unit>
+<trans-unit id="77">
+<source>Save Images</source>
+<target>Sauver les images</target>
+</trans-unit>
+<trans-unit id="78">
+<source>A %w%x%h% aspect ratio</source>
+<target>Des proportions respectant le rapport %w%x%h%</target>
+</trans-unit>
+<trans-unit id="79">
+<source>A minimum width of %mw% pixels</source>
+<target>Une largeur minimale de %mw% pixels</target>
+</trans-unit>
+<trans-unit id="80">
+<source>A minimum height of %mh% pixels</source>
+<target>Une hauteur minimale de %mh% pixels</target>
+</trans-unit>
+<trans-unit id="81">
+<source>A width of exactly %w% pixels</source>
+<target>Une largeur d'exactement %w% pixels</target>
+</trans-unit>
+<trans-unit id="82">
+<source>A height of exactly %h% pixels</source>
+<target>Une hauteur d'exactement %h% pixels</target>
+</trans-unit>
+<trans-unit id="83">
+<source>items</source>
+<target>éléments</target>
+</trans-unit>
+<trans-unit id="84">
+<source>Displaying only %t% with:</source>
+<target>Affichage de %t% uniquement avec&amp;nbsp;:</target>
+</trans-unit>
+<trans-unit id="85">
+<source>User Dashboard</source>
+<target>Tableau de bord des utilisateurs</target>
+</trans-unit>
+<trans-unit id="86">
+<source>Add User</source>
+<target>Ajouter un utilisateur</target>
+</trans-unit>
+<trans-unit id="87">
+<source>Group Dashboard</source>
+<target>Tableau de bord des groupes</target>
+</trans-unit>
+<trans-unit id="88">
+<source>Add Group</source>
+<target>Ajouter un groupe</target>
+</trans-unit>
+<trans-unit id="89">
+<source>Permissions Dashboard</source>
+<target>Tableau de bord des permissions</target>
+</trans-unit>
+<trans-unit id="90">
+<source>Add Permission</source>
+<target>Ajouter une permission</target>
+</trans-unit>
+<trans-unit id="91">
+<source>Use this slot to add raw HTML markup, such as embed codes.</source>
+<target>Utilisez cet emplacement pour ajouter du HTML brut tel que des codes d'inclusion.</target>
+</trans-unit>
+<trans-unit id="92">
+<source>Use this slot with caution. If bad markup causes the page to become uneditable, add ?safemode=1 to the URL and edit the slot to correct the markup.</source>
+<target>Utilisez cet emplacement avec prudence. Si un code inadapté empèche l'édition de la page, ajoutez ?safemode=1 à la fin de l'URL et éditez l'emplacement pour corriger le code.</target>
+</trans-unit>
+<trans-unit id="93">
+<source>Click edit to add raw HTML markup, such as embed codes.</source>
+<target>Cliquez &amp;laquo;&amp;nbsp;Editer&amp;nbsp;&amp;raquo; pour ajouter du HTML brut, tel que des codes d'insertion.</target>
+</trans-unit>
+<trans-unit id="94">
+<source>First Page</source>
+<target>Première page</target>
+</trans-unit>
+<trans-unit id="95">
+<source>Previous Page</source>
+<target>Page précédente</target>
+</trans-unit>
+<trans-unit id="96">
+<source>Next Page</source>
+<target>Page suivante</target>
+</trans-unit>
+<trans-unit id="97">
+<source>Last Page</source>
+<target>Dernière page</target>
+</trans-unit>
+<trans-unit id="98">
+<source>Choose Video</source>
+<target>Choisir une vidéo</target>
+</trans-unit>
+<trans-unit id="99">
+<source>Select a Video</source>
+<target>Sélectionner une vidéo</target>
+</trans-unit>
+<trans-unit id="100">
+<source>Invalid URL. A valid example: http://www.punkave.com/</source>
+<target>URL non valide. Un exemple valide&amp;nbsp;: http://www.punkave.com/</target>
+</trans-unit>
+<trans-unit id="101">
+<source>URL: %r%</source>
+<target>URL&amp;nbsp;: %r%</target>
+</trans-unit>
+<trans-unit id="102">
+<source>Title: %t%</source>
+<target>Titre&amp;nbsp;: %t%</target>
+</trans-unit>
+<trans-unit id="103">
+<source>sign in</source>
+<target>Se connecter</target>
+</trans-unit>
+<trans-unit id="104">
+<source>Options</source>
+<target>Options</target>
+</trans-unit>
+<trans-unit id="105">
+<source>Hide &quot;Off&quot; Pages</source>
+<target>Cacher les pages &amp;laquo;&amp;nbsp;éteintes&amp;nbsp;&amp;raquo;</target>
+</trans-unit>
+<trans-unit id="106">
+<source>Show &quot;Off&quot; Pages</source>
+<target>Montrer les pages &amp;laquo;&amp;nbsp;éteintes&amp;nbsp;&amp;raquo;</target>
+</trans-unit>
+<trans-unit id="107">
+<source>Error 404 &amp;mdash; The page you are looking for could not be found.</source>
+<target>Erreur 404 &amp;mdash; La page que vous demandez n'a pu être trouvée.</target>
+</trans-unit>
+<trans-unit id="108">
+<source>Go Home.</source>
+<target>Retourner à l'accueil.</target>
+</trans-unit>
+<trans-unit id="109">
+<source>You are browsing past revisions for this area.</source>
+<target>Vous parcourez d'anciennes révisions pour cette zone.</target>
+</trans-unit>
+<trans-unit id="110">
+<source>Choose a revision.</source>
+<target>Choisissez une révision.</target>
+</trans-unit>
+<trans-unit id="111">
+<source>ID</source>
+<target>ID</target>
+</trans-unit>
+<trans-unit id="112">
+<source>Date</source>
+<target>Date</target>
+</trans-unit>
+<trans-unit id="113">
+<source>Editor</source>
+<target>Editeur</target>
+</trans-unit>
+<trans-unit id="114">
+<source>Preview</source>
+<target>Prévisualiser</target>
+</trans-unit>
+<trans-unit id="115">
+<source>View More Revisions</source>
+<target>Voir plus de révisions</target>
+</trans-unit>
+<trans-unit id="116">
+<source>You are previewing another version of this material. This will not become the current version unless you click &quot;Save As Current Revision.&quot; If you change your mind, click &quot;Cancel.&quot;</source>
+<target>Vous prévisualiez une autre version de ce contenu. Elle ne deviendra la version courante que si vous cliquez sur &amp;laquo;&amp;nbsp;Sauver en tant que révision courante.&amp;nbsp;&amp;raquo;. Si vous changez d'avis, cliquez sur &amp;laquo;&amp;nbsp;Annuler.&amp;nbsp;&amp;raquo;.</target>
+</trans-unit>
+<trans-unit id="117">
+<source>Double-click to edit.</source>
+<target>Double cliquer pour éditer.</target>
+</trans-unit>
+<trans-unit id="118">
+<source>User Preferences for %name%</source>
+<target>Préférences utilisateur pour %name%</target>
+</trans-unit>
+<trans-unit id="119">
+<source>Save Changes</source>
+<target>Sauver les changements</target>
+</trans-unit>
+<trans-unit id="120">
+<source>History</source>
+<target>Historique</target>
+</trans-unit>
+<trans-unit id="121">
+<source>Save as Current Revision</source>
+<target>Sauver en tant que révision courante.</target>
+</trans-unit>
+<trans-unit id="122">
+<source>Add Slot</source>
+<target>Ajouter un emplacement</target>
+</trans-unit>
+<trans-unit id="123">
+<source>Move</source>
+<target>Bouger</target>
+</trans-unit>
+<trans-unit id="124">
+<source>Move Up</source>
+<target>Monter</target>
+</trans-unit>
+<trans-unit id="125">
+<source>Move Down</source>
+<target>Descendre</target>
+</trans-unit>
+<trans-unit id="126">
+<source>Delete Slot</source>
+<target>Supprimer l'emplacement</target>
+</trans-unit>
+<trans-unit id="127">
+<source>Are you sure you want to delete this slot?</source>
+<target>Etes-vous sur de vouloir supprimer cet emplacement&amp;nbsp;?</target>
+</trans-unit>
+<trans-unit id="128">
+<source>Click here to continue.</source>
+<target>Cliquer içi pour continuer.</target>
+</trans-unit>
+<trans-unit id="129">
+<source>Apostrophe Now</source>
+<target>Apostrophe Now</target>
+</trans-unit>
+<trans-unit id="130">
+<source>Drag and drop pages to reorganize the site.</source>
+<target>Glissez et déposez les pages pour réorganiser le site.</target>
+</trans-unit>
+<trans-unit id="131">
+<source>edit</source>
+<target>Editer</target>
+</trans-unit>
+<trans-unit id="132">
+<source>Rename</source>
+<target>Renommer</target>
+</trans-unit>
+<trans-unit id="133">
+<source>Page Settings</source>
+<target>Paramètres de la page</target>
+</trans-unit>
+<trans-unit id="134">
+<source>Page Slug</source>
+<target>URL de la page</target>
+</trans-unit>
+<trans-unit id="135">
+<source>Page Status</source>
+<target>Statut de la page</target>
+</trans-unit>
+<trans-unit id="136">
+<source>Cascade status changes to children</source>
+<target>Propager les changements de statut aux pages filles</target>
+</trans-unit>
+<trans-unit id="137">
+<source>Page Privacy</source>
+<target>Confidentialité de la page</target>
+</trans-unit>
+<trans-unit id="138">
+<source>Cascade privacy changes to children</source>
+<target>Propager les changements de confidentialité vers les pages filles</target>
+</trans-unit>
+<trans-unit id="139">
+<source>Page Permissions</source>
+<target>Permissions de la page</target>
+</trans-unit>
+<trans-unit id="140">
+<source>Page Template</source>
+<target>Gabarit de la page</target>
+</trans-unit>
+<trans-unit id="141">
+<source>Page Engine</source>
+<target>Moteur de la page</target>
+</trans-unit>
+<trans-unit id="142">
+<source>This page has children that will also be deleted. </source>
+<target>Cette page a des pages filles qui seront également supprimées.</target>
+</trans-unit>
+<trans-unit id="143">
+<source>Delete This Page</source>
+<target>Supprimer cette page</target>
+</trans-unit>
+<trans-unit id="144">
+<source>Are you sure? This operation can not be undone. Consider unpublishing the page instead.</source>
+<target>Etes-vous sur&amp;nbsp;? Cette opération ne peut être annulée. Envisagez de dépublier cette page à la place.</target>
+</trans-unit>
+<trans-unit id="145">
+<source>Add Page</source>
+<target>Ajouter une page</target>
+</trans-unit>
+<trans-unit id="146">
+<source>Page Title</source>
+<target>Titre de la page</target>
+</trans-unit>
+<trans-unit id="147">
+<source>Local</source>
+<target>Local</target>
+</trans-unit>
+<trans-unit id="148">
+<source>Inherited</source>
+<target>Hérité</target>
+</trans-unit>
+<trans-unit id="149">
+<source>Admin</source>
+<target>Admin</target>
+</trans-unit>
+<trans-unit id="150">
+<source>You are using IE6! That is just awful! Apostrophe does not support editing using Internet Explorer 6. Why don't you try upgrading? &lt;a href=&quot;http://www.getfirefox.com&quot;&gt;Firefox&lt;/a&gt; &lt;a href=&quot;http://www.google.com/chrome&quot;&gt;Chrome&lt;/a&gt; 	&lt;a href=&quot;http://www.apple.com/safari/download/&quot;&gt;Safari&lt;/a&gt; &lt;a href=&quot;http://www.microsoft.com/windows/internet-explorer/worldwide-sites.aspx&quot;&gt;IE8&lt;/a&gt;&lt;/h2&gt;&lt;/div&gt;</source>
+<target>Vous utilisez IE6! C'est horrible! Apostrophe ne supporte pas l'édition de contenu sous Internet Explorer 6. Pourquoi ne pas mettre à jour&amp;nbsp;? &lt;a href=&quot;http://www.getfirefox.com&quot;&gt;Firefox&lt;/a&gt; &lt;a href=&quot;http://www.google.com/chrome&quot;&gt;Chrome&lt;/a&gt; &lt;a href=&quot;http://www.apple.com/safari/download/&quot;&gt;Safari&lt;/a&gt; &lt;a href=&quot;http://www.microsoft.com/windows/internet-explorer/worldwide-sites.aspx&quot;&gt;IE8&lt;/a&gt;&lt;/h2&gt;&lt;/div&gt;</target>
+</trans-unit>
+<trans-unit id="151">
+<source>ID#</source>
+<target>ID#</target>
+</trans-unit>
+<trans-unit id="152">
+<source>No history found.</source>
+<target>Pas d'historique trouvé.</target>
+</trans-unit>
+<trans-unit id="153">
+<source>Search: &quot;%phrase%&quot;</source>
+<target>Recherche&amp;nbsp;: &amp;laquo;&amp;nbsp;%phrase%&amp;nbsp;&amp;raquo;</target>
+</trans-unit>
+<trans-unit id="154">
+<source>You are logged in as</source>
+<target>Vous êtes connecté en tant que</target>
+</trans-unit>
+<trans-unit id="155">
+<source>Log Out</source>
+<target>Se déconnecter</target>
+</trans-unit>
+<trans-unit id="156">
+<source>Login</source>
+<target>Se connecter</target>
+</trans-unit>
+<trans-unit id="157">
+<source>Click Edit to select a feed URL.</source>
+<target>Cliquez &amp;laquo;&amp;nbsp;Editer&amp;nbsp;&amp;raquo; pour sélectionner une URL de flux.</target>
+</trans-unit>
+<trans-unit id="158">
+<source>Invalid feed.</source>
+<target>Flux non valide.</target>
+</trans-unit>
+<trans-unit id="159">
+<source>Choose PDF</source>
+<target>Choisir un PDF</target>
+</trans-unit>
+<trans-unit id="160">
+<source>Select a PDF File</source>
+<target>Sélectionner un fichier PDF</target>
+</trans-unit>
+<trans-unit id="161">
+<source>Download PDF</source>
+<target>Télécharger un PDF</target>
+</trans-unit>
+<trans-unit id="207">
+<source>Full Name</source>
+<target>Nom complet</target>
+</trans-unit>
+<trans-unit id="209">
+<source>Permissions</source>
+<target>Permissions</target>
+</trans-unit>
+<trans-unit id="211">
+<source>Media Categories</source>
+<target>Catégories de média</target>
+</trans-unit>
+<trans-unit id="213">
+<source>RSS Feed URL</source>
+<target>URL de flux RSS</target>
+</trans-unit>
+<trans-unit id="225">
+<source>Required.</source>
+<target>Requis.</target>
+</trans-unit>
+<trans-unit id="226">
+<source>Invalid.</source>
+<target>Non valide.</target>
+</trans-unit>
+<trans-unit id="227">
+<source>At least %min% values must be selected (%count% values selected).</source>
+<target>%min% valeurs doivent être sélectionnées au minimum (%count% valeurs sélectionnées).</target>
+</trans-unit>
+<trans-unit id="228">
+<source>At most %max% values must be selected (%count% values selected).</source>
+<target>%max% valeurs doivent être sélectionnées au maximum(%count% valeurs sélectionnées).</target>
+</trans-unit>
+<trans-unit id="229">
+<source>&quot;%value%&quot; is too long (%max_length% characters max).</source>
+<target>&amp;laquo;&amp;nbsp;%value%&amp;nbsp;&amp;raquo; est trop long (Maximum %max_length% caractères).</target>
+</trans-unit>
+<trans-unit id="230">
+<source>&quot;%value%&quot; is too short (%min_length% characters min).</source>
+<target>&amp;laquo;&amp;nbsp;%value%&amp;nbsp;&amp;raquo; est trop court(Minimum %min_length% caractères).</target>
+</trans-unit>
+<trans-unit id="231">
+<source>&quot;%value%&quot; is not an integer.</source>
+<target>&amp;laquo;&amp;nbsp;%value%&amp;nbsp;&amp;raquo; n'est pas un entier.</target>
+</trans-unit>
+<trans-unit id="232">
+<source>&quot;%value%&quot; must be at most %max%.</source>
+<target>&amp;laquo;&amp;nbsp;%value%&amp;nbsp;&amp;raquo; doit être plus petit ou égal à %max%.</target>
+</trans-unit>
+<trans-unit id="233">
+<source>&quot;%value%&quot; must be at least %min%.</source>
+<target>&amp;laquo;&amp;nbsp;%value%&amp;nbsp;&amp;raquo; doit être plus grand ou égal à %min%.</target>
+</trans-unit>
+<trans-unit id="234">
+<source>&quot;%value%&quot; does not match the date format (%date_format%).</source>
+<target>&amp;laquo;&amp;nbsp;%value%&amp;nbsp;&amp;raquo; ne correspond pas au format de la date (%date_format%).</target>
+</trans-unit>
+<trans-unit id="235">
+<source>The date must be before %max%.</source>
+<target>La date doit être avant %max%.</target>
+</trans-unit>
+<trans-unit id="236">
+<source>The date must be after %min%.</source>
+<target>La date doit être après %max%.</target>
+</trans-unit>
+<trans-unit id="237">
+<source>File is too large (maximum is %max_size% bytes).</source>
+<target>Le fichier est trop volumineux (maximum %max_size% octets autorisés).</target>
+</trans-unit>
+<trans-unit id="238">
+<source>Only JPEG, PNG and GIF-format images are accepted.</source>
+<target>Seuls les formats JPEG, PNG et GIF sont acceptés.</target>
+</trans-unit>
+<trans-unit id="239">
+<source>The uploaded file was only partially uploaded.</source>
+<target>Le fichier envoyé n'a été que partiellement réceptionné.</target>
+</trans-unit>
+<trans-unit id="240">
+<source>Missing a temporary folder.</source>
+<target>Pas de dossier temporaire disponible.</target>
+</trans-unit>
+<trans-unit id="241">
+<source>Failed to write file to disk.</source>
+<target>Echec de l'écriture du fichier sur le disque.</target>
+</trans-unit>
+<trans-unit id="242">
+<source>File upload stopped by extension.</source>
+<target>Réception du fichier stoppée par une extension.</target>
+</trans-unit>
+<trans-unit id="243">
+<source>You must provide a title.</source>
+<target>Vous devez fournir un titre.</target>
+</trans-unit>
+<trans-unit id="244">
+<source>Title must be &lt;200 characters.</source>
+<target>Le titre doit faire moins de 200 caractères.</target>
+</trans-unit>
+<trans-unit id="245">
+<source>Title must be at least 3 characters.</source>
+<target>Le titre doit faire plus de 3 caractères</target>
+</trans-unit>
+<trans-unit id="246">
+<source>Select a JPEG, PNG or GIF file</source>
+<target>Sélectionner un fichier JPEG, PNG ou GIF</target>
+</trans-unit>
+<trans-unit id="247">
+<source>JPEG, PNG and GIF only.</source>
+<target>JPEG, PNG et GIF uniquement.</target>
+</trans-unit>
+<trans-unit id="248">
+<source>Not a valid embed code</source>
+<target>Ce n'est pas un code d'inclusion valide</target>
+</trans-unit>
+<trans-unit id="249">
+<source>Invalid mime type (%mime_type%).</source>
+<target>Type MIME non valide (%mime_type%).</target>
+</trans-unit>
+<trans-unit id="250">
+<source>Not a valid YouTube URL</source>
+<target>Ce n'est pas une URL YouTube valide</target>
+</trans-unit>
+<trans-unit id="251">
+<source>Unexpected extra form field named &quot;%field%&quot;.</source>
+<target>Champs de formulaire inattendu nommé &amp;laquo;&amp;nbsp;%field%&amp;nbsp;&amp;raquo;</target>
+</trans-unit>
+<trans-unit id="252">
+<source>The form submission cannot be processed. It probably means that you have uploaded a file that is too big.</source>
+<target>Le formulaire ne peut être traité. Cela signifie probablement que vous avez envoyé un fichier trop volumineux.</target>
+</trans-unit>
+<trans-unit id="253">
+<source>Your field contains unsupported HTML tags.</source>
+<target>Votre champs contient des balises HTML non supportées.</target>
+</trans-unit>
+<trans-unit id="254">
+<source>Id</source>
+<target>Id</target>
+</trans-unit>
+<trans-unit id="255">
+<source>Type</source>
+<target>Type</target>
+</trans-unit>
+<trans-unit id="256">
+<source>Value</source>
+<target>Valeur</target>
+</trans-unit>
+<trans-unit id="257">
+<source>Page</source>
+<target>Page</target>
+</trans-unit>
+<trans-unit id="258">
+<source>Name</source>
+<target>Nom</target>
+</trans-unit>
+<trans-unit id="259">
+<source>Culture</source>
+<target>Langage</target>
+</trans-unit>
+<trans-unit id="260">
+<source>Latest version</source>
+<target>Dernière version</target>
+</trans-unit>
+<trans-unit id="261">
+<source>Slug</source>
+<target>URL</target>
+</trans-unit>
+<trans-unit id="262">
+<source>Template</source>
+<target>Gabarit</target>
+</trans-unit>
+<trans-unit id="263">
+<source>View is secure</source>
+<target>Vue sécurisée</target>
+</trans-unit>
+<trans-unit id="264">
+<source>Archived</source>
+<target>Archivé</target>
+</trans-unit>
+<trans-unit id="265">
+<source>Author</source>
+<target>Auteur</target>
+</trans-unit>
+<trans-unit id="266">
+<source>Deleter</source>
+<target>Suppresseur</target>
+</trans-unit>
+<trans-unit id="267">
+<source>Engine</source>
+<target>Moteur</target>
+</trans-unit>
+<trans-unit id="268">
+<source>Created at</source>
+<target>Créé le</target>
+</trans-unit>
+<trans-unit id="269">
+<source>Updated at</source>
+<target>Modifié le</target>
+</trans-unit>
+<trans-unit id="270">
+<source>Lft</source>
+<target>Lft</target>
+</trans-unit>
+<trans-unit id="271">
+<source>Rgt</source>
+<target>Rgt</target>
+</trans-unit>
+<trans-unit id="272">
+<source>Level</source>
+<target>Niveau</target>
+</trans-unit>
+<trans-unit id="273">
+<source>Media categories list</source>
+<target>Liste des catégories de média</target>
+</trans-unit>
+<trans-unit id="274">
+<source>Slot</source>
+<target>Emplacement</target>
+</trans-unit>
+<trans-unit id="275">
+<source>Area version</source>
+<target>Version de la zone</target>
+</trans-unit>
+<trans-unit id="276">
+<source>Permid</source>
+<target>Permid</target>
+</trans-unit>
+<trans-unit id="277">
+<source>Rank</source>
+<target>Rang</target>
+</trans-unit>
+<trans-unit id="278">
+<source>Area</source>
+<target>Zone</target>
+</trans-unit>
+<trans-unit id="279">
+<source>Version</source>
+<target>Version</target>
+</trans-unit>
+<trans-unit id="280">
+<source>Diff</source>
+<target>Diff</target>
+</trans-unit>
+<trans-unit id="281">
+<source>Service url</source>
+<target>URL de service</target>
+</trans-unit>
+<trans-unit id="282">
+<source>Format</source>
+<target>Format</target>
+</trans-unit>
+<trans-unit id="283">
+<source>Width</source>
+<target>Largeur</target>
+</trans-unit>
+<trans-unit id="284">
+<source>Height</source>
+<target>Hauteur</target>
+</trans-unit>
+<trans-unit id="285">
+<source>Embed</source>
+<target>Inclusion</target>
+</trans-unit>
+<trans-unit id="286">
+<source>Title</source>
+<target>Titre</target>
+</trans-unit>
+<trans-unit id="287">
+<source>Description</source>
+<target>Description</target>
+</trans-unit>
+<trans-unit id="288">
+<source>Credit</source>
+<target>Crédit</target>
+</trans-unit>
+<trans-unit id="289">
+<source>Tags</source>
+<target>Etiquettes</target>
+</trans-unit>
+<trans-unit id="290">
+<source>Privilege</source>
+<target>Privilèges</target>
+</trans-unit>
+<trans-unit id="291">
+<source>User</source>
+<target>Utilisateur</target>
+</trans-unit>
+<trans-unit id="292">
+<source>Editors</source>
+<target>Editeurs</target>
+</trans-unit>
+<trans-unit id="293">
+<source>Managers</source>
+<target>Gestionnaires</target>
+</trans-unit>
+<trans-unit id="294">
+<source>File</source>
+<target>Fichier</target>
+</trans-unit>
+<trans-unit id="295">
+<source>Email</source>
+<target>Courriel</target>
+</trans-unit>
+<trans-unit id="296">
+<source>Credits</source>
+<target>Crédits</target>
+</trans-unit>
+<trans-unit id="297">
+<source>Thumbnail</source>
+<target>Miniature</target>
+</trans-unit>
+<trans-unit id="298">
+<source>Url</source>
+<target>URL</target>
+</trans-unit>
+<trans-unit id="299">
+<source>Username</source>
+<target>Nom d'utilisateur</target>
+</trans-unit>
+<trans-unit id="300">
+<source>Password</source>
+<target>Mot de passe</target>
+</trans-unit>
+<trans-unit id="301">
+<source>Password again</source>
+<target>Mot de passe (à nouveau)</target>
+</trans-unit>
+<trans-unit id="302">
+<source>Is active</source>
+<target>Est actif</target>
+</trans-unit>
+<trans-unit id="303">
+<source>Htpasswd</source>
+<target>Htpasswd</target>
+</trans-unit>
+<trans-unit id="304">
+<source>Groups list</source>
+<target>Liste des groupes</target>
+</trans-unit>
+<trans-unit id="305">
+<source>Parent</source>
+<target>Parent</target>
+</trans-unit>
+<trans-unit id="306">
+<source>Tag</source>
+<target>Etiquette</target>
+</trans-unit>
+<trans-unit id="307">
+<source>Item-0</source>
+<target>Element-0</target>
+</trans-unit>
+<trans-unit id="308">
+<source>Item-1</source>
+<target>Element-1</target>
+</trans-unit>
+<trans-unit id="309">
+<source>Item-2</source>
+<target>Element-2</target>
+</trans-unit>
+<trans-unit id="310">
+<source>Item-3</source>
+<target>Element-3</target>
+</trans-unit>
+<trans-unit id="311">
+<source>Item-4</source>
+<target>Element-4</target>
+</trans-unit>
+<trans-unit id="312">
+<source>Item-5</source>
+<target>Element-5</target>
+</trans-unit>
+<trans-unit id="313">
+<source>Tags should be separated by commas. Example: teachers, kittens, buildings</source>
+<target>Les étiquettes doivent être séparées par des virgules. Exemple&amp;nbsp;: professeurs, chattons, bâtiments</target>
+</trans-unit>
+<trans-unit id="314">
+<source>This Page</source>
+<target>Cette page</target>
+</trans-unit>
+<trans-unit id="315">
+<source>Choose a User to Add</source>
+<target>Choisissez un utilisateur à ajouter</target>
+</trans-unit>
+<trans-unit id="316">
+<source>Home Page</source>
+<target>Page d'accueil</target>
+</trans-unit>
+<trans-unit id="317">
+<source>Default Page</source>
+<target>Page par défault</target>
+</trans-unit>
+<trans-unit id="318">
+<source>Template-Based</source>
+<target>Basé sur un gabarit</target>
+</trans-unit>
+<trans-unit id="319">
+<source>Media</source>
+<target>Média</target>
+</trans-unit>
+<trans-unit id="320">
+<source>Public</source>
+<target>Publique</target>
+</trans-unit>
+<trans-unit id="321">
+<source>Hidden</source>
+<target>Cachée</target>
+</trans-unit>
+<trans-unit id="322">
+<source>All</source>
+<target>Tout</target>
+</trans-unit>
+<trans-unit id="323">
+<source>Image</source>
+<target>Image</target>
+</trans-unit>
+<trans-unit id="324">
+<source>Video</source>
+<target>Vidéo</target>
+</trans-unit>
+<trans-unit id="325">
+<source>PDF</source>
+<target>PDF</target>
+</trans-unit>
+<trans-unit id="326">
+<source>Reorganize</source>
+<target>Réorganiser</target>
+</trans-unit>
+<trans-unit id="327">
+<source>Users</source>
+<target>Utilisateurs</target>
+</trans-unit>
+<trans-unit id="345">
+<source>Editing User &quot;%%username%%&quot;</source>
+<target>Edition de l'utilisateur &amp;laquo;&amp;nbsp;%%username%%&amp;nbsp;&amp;raquo;</target>
+</trans-unit>
+<trans-unit id="346">
+<source>No result</source>
+<target>Pas de résultat</target>
+</trans-unit>
+<trans-unit id="347">
+<source>Actions</source>
+<target>Actions</target>
+</trans-unit>
+<trans-unit id="348">
+<source>User list</source>
+<target>Liste d'utilisateur</target>
+</trans-unit>
+<trans-unit id="349">
+<source>%%username%% - %%created_at%% - %%updated_at%% - %%last_login%%</source>
+<target>%%username%% - %%created_at%% - %%updated_at%% - %%last_login%%</target>
+</trans-unit>
+<trans-unit id="350">
+<source>reset</source>
+<target>Réinitialiser</target>
+</trans-unit>
+<trans-unit id="351">
+<source>Choose an action</source>
+<target>Choisissez une action</target>
+</trans-unit>
+<trans-unit id="352">
+<source>Checked</source>
+<target>Coché</target>
+</trans-unit>
+<trans-unit id="353">
+<source>New User</source>
+<target>Nouvel utilisateur</target>
+</trans-unit>
+<trans-unit id="354">
+<source>Last login</source>
+<target>Dernière connection</target>
+</trans-unit>
+<trans-unit id="355">
+<source>Editing Permission &quot;%%name%%&quot;</source>
+<target>Edition de la permission &amp;laquo;&amp;nbsp;%%name%%&amp;nbsp;&amp;raquo;</target>
+</trans-unit>
+<trans-unit id="356">
+<source>Permission list</source>
+<target>Liste de permission</target>
+</trans-unit>
+<trans-unit id="357">
+<source>%%name%% - %%description%% - %%created_at%% - %%updated_at%%</source>
+<target>%%name%% - %%description%% - %%created_at%% - %%updated_at%%</target>
+</trans-unit>
+<trans-unit id="358">
+<source>New Permission</source>
+<target>Nouvelle permission</target>
+</trans-unit>
+<trans-unit id="359">
+<source>Editing Group &quot;%%name%%&quot;</source>
+<target>Edition du groupe &amp;laquo;&amp;nbsp;%%name%%&amp;nbsp;&amp;raquo;</target>
+</trans-unit>
+<trans-unit id="360">
+<source>Group list</source>
+<target>Liste de groupe</target>
+</trans-unit>
+<trans-unit id="361">
+<source>New Group</source>
+<target>Nouveau groupe</target>
+</trans-unit>
+<trans-unit id="362">
+<source>Find in Media</source>
+<target>Trouver dans les médias</target>
+</trans-unit>
+<trans-unit id="364">
+<source>Plain Text</source>
+<target>Texte brut</target>
+</trans-unit>
+<trans-unit id="365">
+<source>Rich Text</source>
+<target>Texte riche</target>
+</trans-unit>
+<trans-unit id="366">
+<source>RSS Feed</source>
+<target>Flux RSS</target>
+</trans-unit>
+<trans-unit id="367">
+<source>Slideshow</source>
+<target>Diaporama</target>
+</trans-unit>
+<trans-unit id="368">
+<source>Button</source>
+<target>Bouton</target>
+</trans-unit>
+<trans-unit id="369">
+<source>Raw HTML</source>
+<target>HTML brut</target>
+</trans-unit>
+<trans-unit id="370">
+<source>Groups</source>
+<target>Groupes</target>
+</trans-unit>
+<trans-unit id="371">
+<source>Remember</source>
+<target>Se rappeler</target>
+</trans-unit>
+<trans-unit id="372">
+<source>Language</source>
+<target>Langue</target>
+</trans-unit>
+<trans-unit id="373">
+<source>Published</source>
+<target>Publié</target>
+</trans-unit>
+<trans-unit id="374">
+<source>Unpublished</source>
+<target>Non-publié</target>
+</trans-unit>
+<trans-unit id="375">
+<source>results</source>
+<target>résultats</target>
+</trans-unit>
+<trans-unit id="376">
+<source>Login Required</source>
+<target>Connection requise</target>
+</trans-unit>
+<trans-unit id="377">
+<source>The username and/or password is invalid.</source>
+<target>Le nom d'utilisateur et/ou le mot de passe est invalide.</target>
+</trans-unit>
+<trans-unit id="378">
+<source>Create Page</source>
+<target>Créer une page</target>
+</trans-unit>
+<trans-unit id="379">
+<source>&lt;p&gt;If you want to grant a user the ability to edit a portion of the site, first add them to the &lt;b&gt;editor&lt;/b&gt; group.&lt;/p&gt;&lt;p&gt;Then browse to that area of the site and click the gear to add them to the list of users who can edit in that particular area.&lt;/p&gt;&lt;p&gt;If you want a user to have full control over the entire site, add them to the &lt;b&gt;admin&lt;/b&gt; group.&lt;/p&gt;</source>
+<target>&lt;p&gt;Si vous souhaitez donner la possibilité à un utilisateur d'éditer une portion du site, commencer par l'ajouter au groupe &lt;b&gt;editor&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;Naviguez ensuite jusqu'à cette portion du site et cliquez sur la roue dentée pour l'ajouter à la liste des utilisateurs qui peuvent éditer dans cette zone particulière.&lt;/p&gt;&lt;p&gt;Si vous souhaitez qu'un utilisateur puisse avoir un control complet sur l'ensemble du site, ajoutez le au groupe &lt;b&gt;admin&lt;/b&gt;.&lt;/p&gt;</target>
+</trans-unit>
+<trans-unit id="380">
+<source>New</source>
+<target>Nouveau</target>
+</trans-unit>
+<trans-unit id="381">
+<source>Back to list</source>
+<target>Retour à la liste</target>
+</trans-unit>
+<trans-unit id="382">
+<source>Save and add</source>
+<target>Sauver et Ajouter</target>
+</trans-unit>
+<trans-unit id="383">
+<source>Filters</source>
+<target>Filtres</target>
+</trans-unit>
+<trans-unit id="384">
+<source>Password (again)</source>
+<target>Mot de passe (à nouveau)</target>
+</trans-unit>
+<trans-unit id="385">
+<source>There are no categories that contain media.</source>
+<target>Il n'y a pas de catégorie contenant de média.</target>
+</trans-unit>
+<trans-unit id="386">
+<source>[0] no result|[1] 1 result|(1,+Inf] %1% results</source>
+<target>[0] pas de résultat|[1] 1 résultat|(1,+Inf] %1% résultats</target>
+</trans-unit>
+<trans-unit id="387">
+<source>The item was created successfully.</source>
+<target>L'élément a été créé avec succès</target>
+</trans-unit>
+<trans-unit id="388">
+<source>The item was updated successfully.</source>
+<target>L'élément a été mis à jour avec succès</target>
+</trans-unit>
+<trans-unit id="389">
+<source>You can add another one below.</source>
+<target>Vous pouvez en ajouter un ci-dessous.</target>
+</trans-unit>
+<trans-unit id="390">
+<source>The item has not been saved due to some errors.</source>
+<target>L'élément n'a pas été sauvegardé en raison de certaines erreurs.</target>
+</trans-unit>
+<trans-unit id="391">
+<source>Upload Photos</source>
+<target>Envoyer les photos</target>
+</trans-unit>
+</body>
+</file>
+</xliff>

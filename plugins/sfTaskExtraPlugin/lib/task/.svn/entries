@@ -1,0 +1,83 @@
+10
+
+dir
+31857
+http://svn.symfony-project.com/plugins/sfTaskExtraPlugin/branches/1.3/lib/task
+http://svn.symfony-project.com
+
+
+
+2010-07-28T05:08:18.408025Z
+30446
+Kris.Wallsmith
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ee427ae8-e902-0410-961c-c3ed070cd9f9
+
+subversion
+dir
+
+test
+dir
+
+propel
+dir
+
+addon
+dir
+
+generator
+dir
+
+doctrine
+dir
+
+sfTaskExtraBaseTask.class.php
+file
+
+
+
+
+2011-01-19T18:19:36.000000Z
+2d8a0539b9c3bf5715c0e60ec8156ae3
+2009-12-07T19:45:39.948185Z
+25037
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1450
+
+plugin
+dir
+

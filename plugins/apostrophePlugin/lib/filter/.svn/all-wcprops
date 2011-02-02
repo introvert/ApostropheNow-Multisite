@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/3180/plugins/apostrophePlugin/branches/1.5/lib/filter
+END
+aPageFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/filter/aPageFormFilter.class.php
+END
+aGroupAdminFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/filter/aGroupAdminFilter.class.php
+END
+aUserAdminFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/lib/filter/aUserAdminFilter.class.php
+END

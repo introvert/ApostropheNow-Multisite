@@ -1,0 +1,12 @@
+# Your additional tables live here
+
+Site:
+  columns:
+    id:
+      type: integer(4)
+      primary: true
+      autoincrement: true
+
+    name:     { type: string(255), notnull: true }
+    domain:   { type: string(255), notnull: true, unique: true }
+    main:     { type: boolean, default: false }

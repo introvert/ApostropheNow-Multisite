@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/31650/plugins/apostropheFeedbackPlugin/trunk/test/fixtures/project/config
+END
+propel.ini
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/31650/plugins/apostropheFeedbackPlugin/trunk/test/fixtures/project/config/propel.ini
+END
+schema.yml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/31650/plugins/apostropheFeedbackPlugin/trunk/test/fixtures/project/config/schema.yml
+END
+settings.yml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/31650/plugins/apostropheFeedbackPlugin/trunk/test/fixtures/project/config/settings.yml
+END
+vhost.sample
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/31650/plugins/apostropheFeedbackPlugin/trunk/test/fixtures/project/config/vhost.sample
+END
+rsync_exclude.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/31650/plugins/apostropheFeedbackPlugin/trunk/test/fixtures/project/config/rsync_exclude.txt
+END
+databases.yml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/31650/plugins/apostropheFeedbackPlugin/trunk/test/fixtures/project/config/databases.yml
+END
+ProjectConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/31650/plugins/apostropheFeedbackPlugin/trunk/test/fixtures/project/config/ProjectConfiguration.class.php
+END
+properties.ini
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/31650/plugins/apostropheFeedbackPlugin/trunk/test/fixtures/project/config/properties.ini
+END

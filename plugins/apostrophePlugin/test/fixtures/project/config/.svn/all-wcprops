@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/test/fixtures/project/config
+END
+propel.ini
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/test/fixtures/project/config/propel.ini
+END
+schema.yml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/test/fixtures/project/config/schema.yml
+END
+vhost.sample
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/test/fixtures/project/config/vhost.sample
+END
+rsync_exclude.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/test/fixtures/project/config/rsync_exclude.txt
+END
+databases.yml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/test/fixtures/project/config/databases.yml
+END
+ProjectConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/test/fixtures/project/config/ProjectConfiguration.class.php
+END
+properties.ini
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/test/fixtures/project/config/properties.ini
+END

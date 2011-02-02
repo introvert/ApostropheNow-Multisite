@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/3041/plugins/apostropheBlogPlugin/branches/1.5/lib/search
+END
+aEventSearchHelper.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/2937/plugins/apostropheBlogPlugin/branches/1.5/lib/search/aEventSearchHelper.class.php
+END
+BaseaEventSearchHelper.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/3041/plugins/apostropheBlogPlugin/branches/1.5/lib/search/BaseaEventSearchHelper.class.php
+END

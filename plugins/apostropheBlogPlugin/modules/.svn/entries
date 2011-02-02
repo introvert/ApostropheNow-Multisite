@@ -1,0 +1,52 @@
+10
+
+dir
+3225
+http://svn.apostrophenow.org/plugins/apostropheBlogPlugin/branches/1.5/modules
+http://svn.apostrophenow.org
+
+
+
+2011-01-19T16:32:26.671668Z
+3222
+tboutell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c89fab08-2f9b-42bf-8176-bd3ad6bee547
+
+aEvent
+dir
+
+aBlog
+dir
+
+aEventSlot
+dir
+
+aBlogSlot
+dir
+
+aEventSingleSlot
+dir
+
+aBlogSingleSlot
+dir
+
+aEventAdmin
+dir
+
+aBlogAdmin
+dir
+

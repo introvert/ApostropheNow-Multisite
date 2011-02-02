@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/filter/doctrine/sfDoctrineGuardPlugin/base
+END
+BasesfGuardGroupPermissionFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/lib/filter/doctrine/sfDoctrineGuardPlugin/base/BasesfGuardGroupPermissionFormFilter.class.php
+END
+BasesfGuardRememberKeyFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/lib/filter/doctrine/sfDoctrineGuardPlugin/base/BasesfGuardRememberKeyFormFilter.class.php
+END
+BasesfGuardUserPermissionFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/lib/filter/doctrine/sfDoctrineGuardPlugin/base/BasesfGuardUserPermissionFormFilter.class.php
+END
+BasesfGuardPermissionFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/filter/doctrine/sfDoctrineGuardPlugin/base/BasesfGuardPermissionFormFilter.class.php
+END
+BasesfGuardUserGroupFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/2614/sandboxes/asandbox/branches/1.5/lib/filter/doctrine/sfDoctrineGuardPlugin/base/BasesfGuardUserGroupFormFilter.class.php
+END
+BasesfGuardGroupFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/filter/doctrine/sfDoctrineGuardPlugin/base/BasesfGuardGroupFormFilter.class.php
+END
+BasesfGuardUserFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/2938/sandboxes/asandbox/branches/1.5/lib/filter/doctrine/sfDoctrineGuardPlugin/base/BasesfGuardUserFormFilter.class.php
+END

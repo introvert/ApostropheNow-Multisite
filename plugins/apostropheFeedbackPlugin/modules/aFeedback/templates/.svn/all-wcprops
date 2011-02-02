@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/31650/plugins/apostropheFeedbackPlugin/trunk/modules/aFeedback/templates
+END
+_fixedFooter.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/31650/plugins/apostropheFeedbackPlugin/trunk/modules/aFeedback/templates/_fixedFooter.php
+END
+feedbackSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/31650/plugins/apostropheFeedbackPlugin/trunk/modules/aFeedback/templates/feedbackSuccess.php
+END
+_feedbackEmailText.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/31650/plugins/apostropheFeedbackPlugin/trunk/modules/aFeedback/templates/_feedbackEmailText.php
+END
+_feedback.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/31650/plugins/apostropheFeedbackPlugin/trunk/modules/aFeedback/templates/_feedback.php
+END

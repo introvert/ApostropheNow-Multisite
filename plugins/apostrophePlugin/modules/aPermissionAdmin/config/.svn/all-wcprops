@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/aPermissionAdmin/config
+END
+generator.yml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/aPermissionAdmin/config/generator.yml
+END
+security.yml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/aPermissionAdmin/config/security.yml
+END
+view.yml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/2612/plugins/apostrophePlugin/branches/1.5/modules/aPermissionAdmin/config/view.yml
+END
