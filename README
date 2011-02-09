@@ -1,6 +1,7 @@
-# Apostrophe
+# Apostrophe // Multisite Mod
 
-Welcome to Apostrophe! 
+- Apostrophe 1.5
 
-For complete and extensive documentation of Apostrophe please visit
-[trac.apostrophenow.org](http://trac.apostrophenow.org/wiki/ManualOverview). There you'll find a complete manual organized much more conveniently than is possible with a README file.
+Notes:
+- modified core files: 
+	aPageTable.class (self::queryWithSlots => aPageTable::queryWithSlots) - unextendable by default, will be in next release as well

@@ -66,7 +66,7 @@ class BaseSiteGeneratorConfiguration extends sfModelGeneratorConfiguration
 
   public function getListTitle()
   {
-    return 'Site List';
+    return 'Sites Admin';
   }
 
   public function getEditTitle()

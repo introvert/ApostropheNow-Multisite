@@ -80,7 +80,7 @@ class ProjectConfiguration extends sfProjectConfiguration
     if ($user->hasCredential('admin'))
     {
       aTools::addGlobalButtons(array(
-                new aGlobalButton('sites', 'Sites', 'site/index', 'a-sites')));
+                new aGlobalButton('sites', 'Sites', '@a_site_admin', 'a-sites')));
       
     }
   }

@@ -24,6 +24,19 @@ sf_guard_forgot_password_change:
   requirements:
     sf_method: [get, post]
 
+
+#custom admin routes
+a_site_admin:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                Site
+    module:               Site
+    prefix_path:          admin/site
+    column:               id
+    with_wildcard_routes: true
+
+
+
 # A default rule that gets us to actions outside of the CMS.
 # Note that you can't have pages with a slug beginning with /admin
 # on a site that uses this particular rule. You could use a 
@@ -43,6 +56,8 @@ homepage:
 # Put any routing rules for other modules and actions HERE,
 # before the catch-all rule that routes URLs to the
 # CMS by default.
+
+
 
 # Must be the last rule. Note that you can change the URL to have
 # a prefix if you don't want the CMS pages at the root

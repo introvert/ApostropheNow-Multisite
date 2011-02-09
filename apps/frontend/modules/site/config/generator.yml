@@ -8,14 +8,16 @@ generator:
     singular:              ~
     plural:                ~
     route_prefix:          a_site_admin
-    with_doctrine_route:   true
+    with_doctrine_route:   1
     #actions_base_class:    sfActions
-    i18n_catalogue:        apostrophe
+    #i18n_catalogue:        apostrophe
 
     config:
+      list:
+        title: Sites Admin
+      
       actions: ~
       fields:  ~
-      list:    ~
       filter:  ~
       form:    ~
       edit:    ~

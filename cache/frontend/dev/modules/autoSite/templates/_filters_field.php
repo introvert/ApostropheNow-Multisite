@@ -10,7 +10,7 @@
       <?php echo $form[$name]->render($attributes instanceof sfOutputEscaper ? $attributes->getRawValue() : $attributes) ?>
 
       <?php if ($help || $help = $form[$name]->renderHelp()): ?>
-        <div class="a-help"><?php echo __($help, array(), 'apostrophe') ?></div>
+        <div class="a-help"><?php echo __($help, array(), 'messages') ?></div>
       <?php endif; ?>
     </div>
 <?php endif; ?>

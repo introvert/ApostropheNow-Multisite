@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>apps/frontend/lib/aPage.class.php</string>
+	<string>apps/frontend/config/frontendConfiguration.class.php</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -180,9 +180,9 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>2</integer>
+				<integer>1</integer>
 				<key>line</key>
-				<integer>14</integer>
+				<integer>3</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
@@ -204,6 +204,62 @@
 			<integer>0</integer>
 		</dict>
 		<key>apps/frontend/lib/myUser.class.php</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>apps/frontend/modules/a/templates/_footer.php</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>14</integer>
+				<key>line</key>
+				<integer>11</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>apps/frontend/modules/a/templates/_login.php</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>36</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>apps/frontend/modules/a/templates/defaultTemplate.php</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>apps/frontend/modules/a/templates/homeTemplate.php</key>
 		<dict>
 			<key>caret</key>
 			<dict>
@@ -679,6 +735,62 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
+		<key>plugins/apostrophePlugin/modules/a/templates/_footer.php</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>17</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>plugins/apostrophePlugin/modules/a/templates/_login.php</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>39</integer>
+				<key>line</key>
+				<integer>3</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>plugins/apostrophePlugin/modules/a/templates/deleteSlotSuccess.php</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>plugins/apostrophePlugin/modules/a/templates/layout.php</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>15</integer>
+				<key>line</key>
+				<integer>109</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>59</integer>
+		</dict>
 		<key>plugins/sfDoctrineGuardPlugin/config/doctrine/schema.yml</key>
 		<dict>
 			<key>caret</key>
@@ -791,6 +903,34 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
+		<key>web/.htaccess</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>web/index.php</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
 	</dict>
 	<key>openDocuments</key>
 	<array>
@@ -816,6 +956,16 @@
 		<string>lib/model/doctrine/apostrophePlugin/base/BaseaPage.class.php</string>
 		<string>lib/model/doctrine/apostrophePlugin/aPage.class.php</string>
 		<string>apps/frontend/lib/aPage.class.php</string>
+		<string>plugins/apostrophePlugin/modules/a/templates/layout.php</string>
+		<string>plugins/apostrophePlugin/modules/a/templates/_footer.php</string>
+		<string>apps/frontend/modules/a/templates/_footer.php</string>
+		<string>web/index.php</string>
+		<string>web/.htaccess</string>
+		<string>plugins/apostrophePlugin/modules/a/templates/deleteSlotSuccess.php</string>
+		<string>apps/frontend/modules/a/templates/defaultTemplate.php</string>
+		<string>apps/frontend/modules/a/templates/homeTemplate.php</string>
+		<string>apps/frontend/modules/a/templates/_login.php</string>
+		<string>plugins/apostrophePlugin/modules/a/templates/_login.php</string>
 		<string>plugins/apostrophePlugin/README</string>
 		<string>TO DO.txt</string>
 		<string>data/fixtures/pages.yml</string>
@@ -853,6 +1003,6 @@
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{394, 38}, {1262, 1140}}</string>
+	<string>{{935, 150}, {1262, 1028}}</string>
 </dict>
 </plist>

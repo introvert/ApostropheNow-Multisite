@@ -16,7 +16,7 @@
 
       <?php if ($help || $help = $form[$name]->renderHelp()): ?>
         <div class="a-form-help">
-					<?php echo __($help, array(), 'apostrophe') ?>
+					<?php echo __($help, array(), 'messages') ?>
 				</div>
       <?php endif; ?>
   </div>

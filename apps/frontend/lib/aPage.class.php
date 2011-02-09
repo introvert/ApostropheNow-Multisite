@@ -2,11 +2,6 @@
 
 class aPage extends PluginaPage
 {
-  /*
-  function __construct() {
-    echo "MADAFAK aPage";
-  }
-  */
 
   /*
     modified functions

@@ -418,3 +418,7 @@ text-shadow: 0 0 6px rgba(0,0,0,0.80);
 .a-do-not-edit div { overflow: hidden; margin: 0 auto; width: 960px; color: #fff; font-size: 16px; text-align: center; text-shadow:	1px 1px 1px rgba(0,0,0,0.45); }
 .a-do-not-edit a { color: #fff; text-decoration: underline; }
 .a-do-not-edit strong { font-weight: bold; }
+
+
+/* Custom icons */
+.a-sites > .icon { background-image: url(/apostrophePlugin/images/a-icon-alt-settings.png); }
